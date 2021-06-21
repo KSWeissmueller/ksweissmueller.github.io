@@ -12,9 +12,6 @@ Please find my full academic CV <a href="https://ksweissmueller.github.io/files/
 
 
 <object data="https://ksweissmueller.github.io/files/CV-KW.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://ksweissmueller.github.io/files/CV-KW.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="https://ksweissmueller.github.io/files/CV-KW.pdf" target="_blank"><u>here</u></a>.
-        </embed>
 </object>
 
 
