@@ -9,9 +9,13 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 
 
 [Deliberative Quality in Trade-related International Organizations](#IOs)
+
 [Corruption in the Public Sector (CorPuS)](#corpus)
+
 [Public Service Motivation in University Students](#PSM-students)
+
 [Risk in Public Private Partnerships (RiPPP)](#rippp)
+
 
 
 <br/>
