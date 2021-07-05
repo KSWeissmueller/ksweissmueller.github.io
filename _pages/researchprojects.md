@@ -8,10 +8,10 @@ author_profile: true
 I believe that the purpose of scholarship is to generate usable knowledge to solve real-life problems. In the spirit of open science, please feel free to contact me if you are interested in any of our projects!
 
 
-4. [Deliberative Quality in Trade-related International Organizations](#IOs)
-3. [Corruption in the Public Sector (CorPuS)](#corpus)
-2. [Public Service Motivation in University Students](#PSM-students)
-1. [Risk in Public Private Partnerships (RiPPP)](#rippp)
+[4. Deliberative Quality in Trade-related International Organizations](#IOs)
+[3. Corruption in the Public Sector (CorPuS)](#corpus)
+[2. Public Service Motivation in University Students](#PSM-students)
+[1. Risk in Public Private Partnerships (RiPPP)](#rippp)
 
 
 <br/>
@@ -23,9 +23,7 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 * *Principal members:* Xiankun LU (University of International Business and Economics (UIBE) of China); Kristina S. Weißmüller (Universität Bern, Switzerland); Gianluca Miscione ( University College Dublin, Ireland; Zurich University of Applied Sciences, Switzerland); Pablo Contreras (Universidad Autónoma de Chile); Shaila Seshia Galvin (Graduate Institute, Switzerland) 
 
 * *Research objectives:* This project develops the concept of Deliberative Quality, focusing on its application in trade-related International Organizations (IOs), analyzing decision-making processes and stakeholder engagement strategies of the World Trade Organization (WTO), the United Nation Conference on Trade And Development (UNCTAD), and the International Trade Centre (ITC). Each of these organizations plays a different role in the international trade system, and has a different approach to decision-making/negotiations and stakeholder engagement. Using the lenses of Public Administration/Political Science, Behavioural Sciences, and Science and Technology Studies on one side, and the contribution of Anthropology, Law, and International Trade/Business on the other, this project develops a transdisciplinary framework of analysis, aiming to: 1) assess the Deliberative Quality produced in the three trade-related IOs, and 2) provide insights and recommendations to structurally achieve higher Deliberative Quality in decision-making processes, making them more  inclusive, accountable, legitimate, and thus more impactful.
-* 
 In the face of strong headwinds against multilateralism, eroding trust, and decreasing perceived legitimacy and relevance of trade-related IOs, a solid and effective strategy of Deliberative Quality allows to better address such challenges, paving the way for a renovated role for IOs.
-
 The three organizations will be directly engaged not only through the case studies carried out in the project - formal trade negotiations at WTO (case of fisheries), trade analysis and reporting at UNCTAD (e-commerce strategy), and trade empowerment at ITC (women and trade initiative) - but also in terms of validation of the framework and dissemination of results.
 
 
