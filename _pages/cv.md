@@ -10,9 +10,9 @@ redirect_from:
 Please find my full academic CV <a href="https://ksweissmueller.github.io/files/CV-KW.pdf">here</a>.
 
 
-
+<!--- 
 <object data="https://ksweissmueller.github.io/files/CV-KW.pdf" type="application/pdf" width="700px" height="700px">
-</object>
+</object> --->
 
 
 Education
