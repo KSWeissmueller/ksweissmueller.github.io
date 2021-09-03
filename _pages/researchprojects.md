@@ -22,7 +22,7 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 
 # 4. Deliberative Quality in Trade-related International Organizations <a name="IOs"></a>
 
-**An international research project funded by the Swiss Network for International Studies (<a href="https://snis.ch/">SNIS</a>)** (Oct. 2021 - Oct. 2023)
+**An international research project funded by the Swiss Network for International Studies (<a href="https://snis.ch/">SNIS</a>)** (Jan. 2022 - Dec. 2023)
 * *Project coordinators:* <a href="http://usi.to/ror">Jean-Patrick Villeneuve</a> (Università della Svizzera italiana, Lugano, Switzerland); <a href="http://usi.to/4en">Alberto Bitonti</a> (Università della Svizzera italiana, Lugano, Switzerland)
 * *Principal members:* Xiankun LU (University of International Business and Economics (UIBE) of China); <a href="http://www.ksweissmueller.com/">Kristina S. Weißmüller</a> (Universität Bern, Switzerland); <a href="https://people.ucd.ie/gianluca.miscione">Gianluca Miscione</a> (University College Dublin, Ireland; Zurich University of Applied Sciences, Switzerland); <a href="https://www.icdt.cl/staff/pablo-contreras/">Pablo Contreras Vásquez</a> (Universidad Autónoma de Chile); <a href="https://www.graduateinstitute.ch/academic-departments/faculty/shaila-seshia-galvin">Shaila Seshia Galvin</a> (IHEID The Graduate Institute of Geneva, Switzerland). 
 
