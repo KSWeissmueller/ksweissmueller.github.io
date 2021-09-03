@@ -59,9 +59,9 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 <h1>Other Publications</h1> <a name="other"></a>
 
 <ol>
-  <li  value="4"><b>Weißmüller, K.S. (2021)</b>. ‘Krisenmodus! Motivation und Identifikation bei befristet Beschäftigten?’. In Adrian Ritz, Rudolf Blankart,  Claus  Jacobs,  Andreas  Lienhard,  Doina  Radulescu,  &  Fritz  Sager (Eds.), <i>Praxisfälle  zu  Public  Management und Verwaltungswissenschaft</i>, XX-XX, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31068-4</a>, Wiesbaden: Springer-Gabler.</li>
+  <li  value="4"><b>Weißmüller, K.S. (2021)</b>. ‘Krisenmodus! Motivation und Identifikation bei befristet Beschäftigten?’. In Adrian Ritz, Rudolf Blankart,  Claus  Jacobs,  Andreas  Lienhard,  Doina  Radulescu,  &  Fritz  Sager (Eds.), <i>Praxisfälle  zu  Public  Management und Verwaltungswissenschaft</i>, 289-298, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31068-4</a>, Wiesbaden: Springer-Gabler.</li>
 
-  <li  value="3"><b>Weißmüller, K.S.</b> & Künzler, P.<b> (2021)</b>. ‘Vernetzt kompetent: Grundlagen des Netzwerks-und Kooperationsmanagements für die öffentliche Verwaltung’. In Adrian Ritz, Rudolf Blankart, Claus Jacobs, Andreas Lienhard, Doina Radulescu, & Fritz Sager (Eds.), <i>Praxisfälle zu Public Management und Verwaltungswissenschaft</i>, XX-XX, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31068-4</a>, Wiesbaden: Springer-Gabler.</li>
+  <li  value="3"><b>Weißmüller, K.S.</b> & Künzler, P.<b> (2021)</b>. ‘Vernetzt kompetent: Grundlagen des Netzwerks-und Kooperationsmanagements für die öffentliche Verwaltung’. In Adrian Ritz, Rudolf Blankart, Claus Jacobs, Andreas Lienhard, Doina Radulescu, & Fritz Sager (Eds.), <i>Praxisfälle zu Public Management und Verwaltungswissenschaft</i>, 207-214, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31068-4</a>, Wiesbaden: Springer-Gabler.</li>
 
   <li value="2"><b>Weißmüller, K.S. (2020)</b>. ‘Risk In Public Private Partnerships: Behavioral Experiments on Risk Preference, Risk Perception, and Risk Participation.’ <i>Doctoral thesis</i> at the Faculty of Business, Economics, and Social Sciences, University of Hamburg, 1st advisor: Prof Dr. Rick Vogel, 2nd advisor: Prof. Dr. Andreas Lange.</li> 
 
@@ -77,7 +77,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 Ritz, A., <b>Weißmüller, K.S.</b>, & Meynhardt, T. (2020). Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations.' <i>Review of Public Personnel Management</i>.
 Ritz, A., Steijn, A. J. (Bram), <b>Weißmüller, K.S.</b>, & Kerstin Alfes. (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ <i>Work & Stress</i>.
-<b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. (2019). ‘Negotiation in Public-Private Partnerships – A laboratory exper-iment on context and domain.’ <i>Public Administration Review</i>.
+<b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. (2019). ‘Negotiation in Public-Private Partnerships – A laboratory experiment on context and domain.’ <i>Public Administration Review</i>.
 Seidemann, I. & <b>Weißmüller, K.S.</b> (2019).‘Flipping the Coin – A Systematic Literature Review on Causes and Consequences of Workforce Homogeneity in the Public Sector.’ <i>Public Personnel Management</i>. 
 Weißmüller, K.S., & De Waele, L. (2018). ‘Would you bribe your lecturer? A quasi-experimental Study on Burnout and Bribery in Higher Education.’ <i>Research in Higher Education</i>.
 Weißmüller, K.S. (2018). ‘Return of the Behavioral Paradigm? A Systematic Review of Nudging in Higher Education.’ <i>Higher Education Quarterly</i>.
@@ -87,7 +87,6 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
 
 <!-- <li value="2"><b>Weißmüller, K.S.</b> & De Waele, L. (2019). ‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’ <i>Research in Higher Education</i>.</li>
 
-<!-- <li value="1">De Waele, L., <b>Weißmüller, K.S.</b>, & van Witteloostuijn, A. (2019). ‘Bribery Tolerance: The Role of implicit and explicit social motivations. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ <i>Journal of Business Ethics</i>.</li>
 </ol>
  -->
 
