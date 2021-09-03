@@ -94,10 +94,14 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
 <h1>Conference Papers & Presentations</h1> <a name="conferences"></a>
 
 <ol>
+ 
+  <li value="35">Fischer, C., & <b>Weißmüller, K.S.</b> (2021). ‘Hiding, Ignoring, Sharing, Correcting: Handling Errors in Public Organizations.’ Accepted for presentation at the </i>European Group for Public Administration (EGPA) Annual Conference, PSG XXII: Behavorial Public Administration, 7.-10.09.2021, Brussels, Belgium.</i></li>
   
-<li value="33">Seidemann, I., & <b>Weißmüller, K.S.</b> (2021). ‘Flipping the Coin: A SLR on Causes and Consequences of Workforce Ho-mogeneity in the Public Sector.’ accepted for presentation at the <i>81st Annual Meeting of the Academy of Management (AoM), 29.07.-04.08.2021, online</i>.</li>
+<li value="34">Weißmüller, K.S.</b>, & Rometsch, S.C. (2021). ‘Public and private sector associations: Mapping civil servants' tacit dimensions of sector-specific sentiment in Switzerland, the US, and Germany.’ Accepted for presentation at the </i>European Group for Public Administration (EGPA) Annual Conference, PSG XXII: Behavorial Public Administration, 7.-10.09.2021, Brussels, Belgium.</i></li>
 
-<li value="32"><b>Weißmüller, K.S.</b>, De Waele, L., van Witteloostuin, A., et al. (2021). ‘Client discrimination by bureaucratic rule breaking – A multi-country experimental study on the role of politico-administrative traditions’, accepted for presentation at <i>Public Management Research Conference, University of Hawai’I at Mānoa, 23.-26.06.2021, online</i>.</li>
+<li value="33">Seidemann, I., & <b>Weißmüller, K.S.</b> (2021). ‘Flipping the Coin: A SLR on Causes and Consequences of Workforce Ho-mogeneity in the Public Sector.’ <i>81st Annual Meeting of the Academy of Management (AoM), 29.07.-04.08.2021, online</i>.</li>
+
+<li value="32"><b>Weißmüller, K.S.</b>, De Waele, L., van Witteloostuin, A., et al. (2021). ‘Client discrimination by bureaucratic rule breaking – A multi-country experimental study on the role of politico-administrative traditions’, <i>Public Management Research Conference, University of Hawai’I at Mānoa, 23.-26.06.2021, online</i>.</li>
 
 <li value="31">De Waele, L., <b>Weißmüller, K.S.</b>, van Witteloostuin, A., et al. (2021). ‘Regimes of Rule Breaking – A 14-country experi-mental study on the relation of politico-administrative traditions with client discrimination in bureaucracies’, accepted for presentation at the <i>Social Equity and Public Administration: The Behavioral Perspective at the School of Public Affairs, American University, 30.04.-01.05.2021, Washington, D.C., & online</i>.</li>
   
