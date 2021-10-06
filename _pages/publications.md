@@ -56,7 +56,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 
 
-<h1>Other Publications</h1> <a name="other"></a>
+<h1>Other peer-reviewed Publications</h1> <a name="other"></a>
 
 <ol>
   <li  value="4"><b>Weißmüller, K.S. (2021)</b>. ‘Krisenmodus! Motivation und Identifikation bei befristet Beschäftigten?’. In Adrian Ritz, Rudolf Blankart,  Claus  Jacobs,  Andreas  Lienhard,  Doina  Radulescu,  &  Fritz  Sager (Eds.), <i>Praxisfälle  zu  Public  Management und Verwaltungswissenschaft</i>, 289-298, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31068-4</a>, Wiesbaden: Springer-Gabler.</li>
@@ -95,15 +95,15 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
 
 <ol>
  
-<li value="35">Fischer, C., & <b>Weißmüller, K.S.</b> <b>(2021)</b>. ‘Hiding, Ignoring, Sharing, Correcting: Handling Errors in Public Organizations.’ Accepted for presentation at the </i>European Group for Public Administration (EGPA) Annual Conference, PSG XXII: Behavorial Public Administration, 7.-10.09.2021, Brussels, Belgium.</i></li>
+<li value="35">Fischer, C., & <b>Weißmüller, K.S.</b> <b>(2021)</b>. ‘Hiding, Ignoring, Sharing, Correcting: Handling Errors in Public Organizations.’ </i>European Group for Public Administration (EGPA) Annual Conference, PSG XXII: Behavorial Public Administration, 7.-10.09.2021, Brussels, Belgium.</i></li>
   
-<li value="34">Weißmüller, K.S.</b>, & Rometsch, S.C. <b>(2021)</b>. ‘Public and private sector associations: Mapping civil servants' tacit dimensions of sector-specific sentiment in Switzerland, the US, and Germany.’ Accepted for presentation at the </i>European Group for Public Administration (EGPA) Annual Conference, PSG XXII: Behavorial Public Administration, 7.-10.09.2021, Brussels, Belgium.</i></li>
+<li value="34">Weißmüller, K.S.</b>, & Rometsch, S.C. <b>(2021)</b>. ‘Public and private sector associations: Mapping civil servants' tacit dimensions of sector-specific sentiment in Switzerland, the US, and Germany.’ </i>European Group for Public Administration (EGPA) Annual Conference, PSG XXII: Behavorial Public Administration, 7.-10.09.2021, Brussels, Belgium.</i></li>
 
 <li value="33">Seidemann, I., & <b>Weißmüller, K.S.</b> <b>(2021)</b>. ‘Flipping the Coin: A SLR on Causes and Consequences of Workforce Ho-mogeneity in the Public Sector.’ <i>81st Annual Meeting of the Academy of Management (AoM), 29.07.-04.08.2021, online</i>.</li>
 
 <li value="32"><b>Weißmüller, K.S.</b>, De Waele, L., van Witteloostuin, A., et al. <b>(2021)</b>. ‘Client discrimination by bureaucratic rule breaking – A multi-country experimental study on the role of politico-administrative traditions’, <i>Public Management Research Conference, University of Hawai’I at Mānoa, 23.-26.06.2021, online</i>.</li>
 
-<li value="31">De Waele, L., <b>Weißmüller, K.S.</b>, van Witteloostuin, A., et al. <b>(2021). ‘Regimes of Rule Breaking – A 14-country experi-mental study on the relation of politico-administrative traditions with client discrimination in bureaucracies’, accepted for presentation at the <i>Social Equity and Public Administration: The Behavioral Perspective at the School of Public Affairs, American University, 30.04.-01.05.2021, Washington, D.C., & online</i>.</li>
+<li value="31">De Waele, L., <b>Weißmüller, K.S.</b>, van Witteloostuin, A., et al. <b>(2021)</b>. ‘Regimes of Rule Breaking – A 14-country experi-mental study on the relation of politico-administrative traditions with client discrimination in bureaucracies’, accepted for presentation at the <i>Social Equity and Public Administration: The Behavioral Perspective at the School of Public Affairs, American University, 30.04.-01.05.2021, Washington, D.C., & online</i>.</li>
   
 <li value="30"><b>Weißmüller, K.S.</b>, De Waele, L., van Witteloostuijn, A., Ritz, A., Christensen, R., Su, Tsai-Tsu, & Walker, R. <b>(2021)</b>. ‘Cor-ruptibility and Moral Disengagement: Behavioral Evidence on Asymmetries across Public, Private, and Hybrid Contexts’, <i>23rd International Research Society on Public Management (IRSPM) Conference, P3 Behavioral and Experimental Public Management, 20.04.-23.04.2021, online.</i></li>
   
