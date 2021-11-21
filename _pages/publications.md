@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+<a href="https://doi.org/10.31219/osf.io/csvkd" title="Weißmüller, K.S. & De Waele, L. (accepted). ‘Would you Bribe your Lecturer? AA Quasi-experimental Study on Burnout and Bribery in Higher Education.’ Research in Higher Education."><img src="https://ksweissmueller.github.io/files/RiHE1.jpg" alt="Would you Bribe your Lecturer?" width="84" height="120"/></a> 
 <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655964/full" title="De Waele, L., Weißmüller, K.S., & van Witteloostuijn, A. (2021). ‘Bribery and the role of public service motivation and social value orientation. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ Frontiers in Psychology - Organizational Psychology."><img src="https://ksweissmueller.github.io/files/frontiers.jpg" alt="Bribery, PSM, and SVO" width="84" height="120"/></a> 
 <a href="https://www.tandfonline.com/doi/abs/10.1080/14719037.2020.1862287?journalCode=rpxm20" title="Weißmüller, K.S. (2021). ‘Publicness and Micro-Level Risk Behaviour: Experimental Evidence on Stereotypical Discounting Behaviour.’ Public Management Review."><img src="https://ksweissmueller.github.io/files/PMR1.jpg" alt="Publicness and Micro-Level Risk Behaviour" width="84" height="120"/></a> 
 <a href="https://journals.sagepub.com/doi/full/10.1177/0734371X20973441" title="Weißmüller, K.S., De Waele, L., & van Witteloostuijn, A. (2020). ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ Review of Public Personnel Administration."><img src="https://ksweissmueller.github.io/files/RoPPA1.png" alt="Public Service Motivation and Prosocial Rule-Breaking" width="84" height="120"/></a> 
@@ -35,7 +36,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 <ol reversed>
   
-  <li value="9"><b>Weißmüller, K.S.</b> & De Waele, L. (accepted). ‘Would you Bribe your Lecturer? AA Quasi-experimental Study on Burnout and Bribery in Higher Education.’ <i>Research in Higher Education</i>. [<a href="https://doi.org/10.31219/osf.io/csvkd">OSF Preprint</a>]</li>
+  <li value="9"><b>Weißmüller, K.S.</b> & De Waele, L. (accepted). ‘Would you Bribe your Lecturer? A Quasi-experimental Study on Burnout and Bribery in Higher Education.’ <i>Research in Higher Education</i>. [<a href="https://doi.org/10.31219/osf.io/csvkd">OSF Preprint</a>]</li>
   
   <li value="8">De Waele, L., <b>Weißmüller, K.S.</b>, & van Witteloostuijn, A. <b>(2021)</b>. ‘Bribery and the role of public service motivation and social value orientation. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ <i>Frontiers in Psychology - Organizational Psychology.</i> <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655964/full">https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655964/full</a> [Open Access].</li>
   
