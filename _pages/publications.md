@@ -35,6 +35,8 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 <ol reversed>
   
+  <li value="9"><b>Weißmüller, K.S.</b> & De Waele, L. (accepted). ‘Would you Bribe your Lecturer? AA Quasi-experimental Study on Burnout and Bribery in Higher Education.’ <i>Research in Higher Education</i>. [<a href="https://doi.org/10.31219/osf.io/csvkd">OSF Preprint</a>]</li>
+  
   <li value="8">De Waele, L., <b>Weißmüller, K.S.</b>, & van Witteloostuijn, A. <b>(2021)</b>. ‘Bribery and the role of public service motivation and social value orientation. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ <i>Frontiers in Psychology - Organizational Psychology.</i> <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655964/full">https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655964/full</a> [Open Access].</li>
   
  <li value="7"><b>Weißmüller, K.S. (2021)</b>. ‘Publicness and Micro-Level Risk Behaviour: Experimental Evidence on Stereotypical Discounting Behaviour.’ <i>Public Management Review</i> <a href="https://doi.org/10.1080/14719037.2020.1862287">https://doi.org/10.1080/14719037.2020.1862287</a>. [<a href="https://ksweissmueller.github.io/files/Weißmüller_2020_Discounting_PMR_preprint.pdf">Preprint</a>]</li> 
@@ -84,8 +86,6 @@ Weißmüller, K.S. (2018). ‘Return of the Behavioral Paradigm? A Systematic Re
 Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten years later: a contemporary literature review.’ <i>Journal of Further and Higher Education</i>.
 <!-- 
 <li value="4"><b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., Ritz, A., Christensen, R.K., Gong, T., Hilgers, D., Homberg, F., Hung, M., Kim, S., Kolltveit, K., Kuo, M., Ma, L., Monteduro, F., Ripoll, G., Schmidthuber, L., Shim, D.C., Su, T., Walker, R., Xiao, H., Yang, S.L. (2020). ‘MICRO-LEVEL FOUNDATIONS OF CORRUPTION: THE DOUBLE-EDGED SWORD OF PUBLIC SERVICE MOTIVATION. Findings from a Multi-country Multi-lab Research Project’ <i>Journal of Public Administration Research and Theory</i>. </li>
-
-<!-- <li value="2"><b>Weißmüller, K.S.</b> & De Waele, L. (2019). ‘Would you bribe your lecturer? An international replication study on burnout and corruption in higher education.’ <i>Research in Higher Education</i>.</li>
 
 </ol>
  -->
