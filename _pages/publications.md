@@ -37,9 +37,9 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 <ol reversed>
   
-  <li value="10"><b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. (accepted). ‘Satisficing or Maximizing in Public-Private Partnerships? A Laboratory Experiment on Strategic Bargaining.’ <i>Public Management Review</i>. https://10.1080/14719037.2021.2013072 [<a href="https://ksweissmueller.github.io/files/Weißmüller_et_al_2021_Bargaining_PMR_preprint.pdf">Preprint</a>]</li>
+  <li value="10"><b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. <b>(accepted)</b>. ‘Satisficing or Maximizing in Public-Private Partnerships? A Laboratory Experiment on Strategic Bargaining.’ <i>Public Management Review</i>. https://10.1080/14719037.2021.2013072 [<a href="https://ksweissmueller.github.io/files/Weißmüller_et_al_2021_Bargaining_PMR_preprint.pdf">Preprint</a>]</li>
     
-  <li value="9"><b>Weißmüller, K.S.</b> & De Waele, L. (accepted). ‘Would you Bribe your Lecturer? A Quasi-experimental Study on Burnout and Bribery in Higher Education.’ <i>Research in Higher Education</i>. https://doi.org/10.1007/s11162-021-09669-1 [<a href="https://doi.org/10.31219/osf.io/csvkd">OSF Preprint</a>]</li>
+  <li value="9"><b>Weißmüller, K.S.</b> & De Waele, L. <b>(accepted)</b>. ‘Would you Bribe your Lecturer? A Quasi-experimental Study on Burnout and Bribery in Higher Education.’ <i>Research in Higher Education</i>. https://doi.org/10.1007/s11162-021-09669-1 [<a href="https://doi.org/10.31219/osf.io/csvkd">OSF Preprint</a>]</li>
   
   <li value="8">De Waele, L., <b>Weißmüller, K.S.</b>, & van Witteloostuijn, A. <b>(2021)</b>. ‘Bribery and the role of public service motivation and social value orientation. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ <i>Frontiers in Psychology - Organizational Psychology.</i> <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655964/full">https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655964/full</a> [Open Access].</li>
   
