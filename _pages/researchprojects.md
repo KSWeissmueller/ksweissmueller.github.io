@@ -30,7 +30,7 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 
 In the face of strong headwinds against multilateralism, eroding trust, and decreasing perceived legitimacy and relevance of trade-related IOs, a solid and effective strategy of Deliberative Quality allows to better address such challenges, paving the way for a renovated role for IOs.
 The three organizations will be directly engaged not only through the case studies carried out in the project - formal trade negotiations at WTO (case of fisheries), trade analysis and reporting at UNCTAD (e-commerce strategy), and trade empowerment at ITC (women and trade initiative) - but also in terms of validation of the framework and dissemination of results.
-
+* *Click here for more information:* <a href="https://snis.ch/projects/deliberative-quality-in-trade-related-international-organizations/">https://snis.ch/projects/deliberative-quality-in-trade-related-international-organizations/</a>
 
 
 <br/>
