@@ -77,11 +77,11 @@ In this project, we explore behavioral biases in decision-making within the cont
    
 <li value="2"> <b>Weißmüller, K.S.</b>, De Waele, L., & van Witteloostuijn, A. (2020). <a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_2020_RoPPA_PSRB_preprint.pdf">Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands</a>. <i>Review of Public Personnel Administration</i>, [<a href="https://doi.org/10.1177/0734371X20973441">https://journals.sagepub.com/doi/full/10.1177/0734371X20973441</a>.</li>
    
-  <li value="3"><b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. <b>(accepted)</b>. ‘Satisficing or Maximizing in Public-Private Partnerships? A Laboratory Experiment on Strategic Bargaining.’ <i>Public Management Review</i>. https://10.1080/14719037.2021.2013072 [<a href="https://ksweissmueller.github.io/files/Weißmüller_et_al_2021_Bargaining_PMR_preprint.pdf">Preprint</a>].</li>
+<li value="3"> <b>Weißmüller, K.S.</b> (2020). ‘Risk In Public Private Partnerships: Behavioral Experiments on Risk Preference, Risk Perception, and Risk Participation.’ <i>Doctoral thesis</i> at the Faculty of Business, Economics, and Social Sciences, University of Hamburg, 1st advisor: Prof Dr. Rick Vogel, 2nd advisor: Prof. Dr. Andreas Lange.</li>
 
-<li value="4"> <b>Weißmüller, K.S.</b> (2020). ‘Risk In Public Private Partnerships: Behavioral Experiments on Risk Preference, Risk Perception, and Risk Participation.’ <i>Doctoral thesis</i> at the Faculty of Business, Economics, and Social Sciences, University of Hamburg, 1st advisor: Prof Dr. Rick Vogel, 2nd advisor: Prof. Dr. Andreas Lange.</li>
+<li value="4"> <b>Weißmüller, K.S.</b> (2021). <a href="https://ksweissmueller.github.io/files/Weißmüller_2020_Discounting_PMR_preprint.pdf">Publicness and Micro-Level Risk Behaviour: Experimental Evidence on Stereotypical Discounting Behaviour</a>. <i>Public Management Review</i>, <a href="https://doi.org/10.1080/14719037.2020.1862287">https://doi.org/10.1080/14719037.2020.1862287</a>.</li>
 
-<li value="5"> <b>Weißmüller, K.S.</b> (2021). <a href="https://ksweissmueller.github.io/files/Weißmüller_2020_Discounting_PMR_preprint.pdf">Publicness and Micro-Level Risk Behaviour: Experimental Evidence on Stereotypical Discounting Behaviour</a>. <i>Public Management Review</i>, <a href="https://doi.org/10.1080/14719037.2020.1862287">https://doi.org/10.1080/14719037.2020.1862287</a>.</li>
+  <li value="5"><b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. <b>(accepted)</b>. ‘Satisficing or Maximizing in Public-Private Partnerships? A Laboratory Experiment on Strategic Bargaining.’ <i>Public Management Review</i>. https://10.1080/14719037.2021.2013072 [<a href="https://ksweissmueller.github.io/files/Weißmüller_et_al_2021_Bargaining_PMR_preprint.pdf">Preprint</a>].</li>
   </ol>
 
 </details>
