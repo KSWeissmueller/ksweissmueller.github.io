@@ -73,7 +73,7 @@ In this project, we explore behavioral biases in decision-making within the cont
 <details>
    <summary><i>Related publications</i></summary>
       
- <ol reversed><li value="1"> <b>Weißmüller, K.S.</b> & Vogel, R. (2020). <a href="Weissmueller_Vogel_2020_JPART_preprint.pdf">Sector-specific associations, trust, and survival of PPPs: A behavioral experiment based on the centipede game</a>. <i>Journal of Public Administration Research and Theory</i>, [https://doi.org/10.1093/jopart/muaa050](https://doi.org/10.1093/jopart/muaa050).</li>
+ <ol reversed><li value="1"> <b>Weißmüller, K.S.</b> & Vogel, R. (2020). <a href="Weissmueller_Vogel_2020_JPART_preprint.pdf">Sector-specific associations, trust, and survival of PPPs: A behavioral experiment based on the centipede game</a>. <i>Journal of Public Administration Research and Theory</i>, <a href="https://doi.org/10.1093/jopart/muaa050">https://doi.org/10.1093/jopart/muaa050</a>.</li>
    
 <li value="2"> <b>Weißmüller, K.S.</b>, De Waele, L., & van Witteloostuijn, A. (2020). <a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_2020_RoPPA_PSRB_preprint.pdf">Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands</a>. <i>Review of Public Personnel Administration</i>, [<a href="https://doi.org/10.1177/0734371X20973441">https://journals.sagepub.com/doi/full/10.1177/0734371X20973441</a>.</li>
    
