@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <a href="https://ksweissmueller.github.io/files/Weißmüller_et_al_2021_Bargaining_PMR_preprint.pdf" title="Weißmüller, K.S., Bouwman, R., & Vogel, R. (accepted). ‘Satisficing or Maximizing in Public-Private Partnerships? A Laboratory Experiment on Strategic Bargaining.’ Public Management Review."><img src="https://ksweissmueller.github.io/files/PMR1.jpg" alt="Satisficing or Maximizing in Public-Private Partnerships?" width="84" height="120"/></a> 
-<a href="https://doi.org/10.31219/osf.io/csvkd" title="Weißmüller, K.S. & De Waele, L. (accepted). ‘Would you Bribe your Lecturer? AA Quasi-experimental Study on Burnout and Bribery in Higher Education.’ Research in Higher Education."><img src="https://ksweissmueller.github.io/files/RiHE1.jpg" alt="Would you Bribe your Lecturer?" width="84" height="120"/></a> 
+<a href="https://doi.org/10.1007/s11162-021-09669-1" title="Weißmüller, K.S. & De Waele, L. (2021). ‘Would you Bribe your Lecturer? AA Quasi-experimental Study on Burnout and Bribery in Higher Education.’ Research in Higher Education."><img src="https://ksweissmueller.github.io/files/RiHE1.jpg" alt="Would you Bribe your Lecturer?" width="84" height="120"/></a> 
 <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655964/full" title="De Waele, L., Weißmüller, K.S., & van Witteloostuijn, A. (2021). ‘Bribery and the role of public service motivation and social value orientation. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ Frontiers in Psychology - Organizational Psychology."><img src="https://ksweissmueller.github.io/files/frontiers.jpg" alt="Bribery, PSM, and SVO" width="84" height="120"/></a> 
 <a href="https://www.tandfonline.com/doi/abs/10.1080/14719037.2020.1862287?journalCode=rpxm20" title="Weißmüller, K.S. (2021). ‘Publicness and Micro-Level Risk Behaviour: Experimental Evidence on Stereotypical Discounting Behaviour.’ Public Management Review."><img src="https://ksweissmueller.github.io/files/PMR1.jpg" alt="Publicness and Micro-Level Risk Behaviour" width="84" height="120"/></a> 
 <a href="https://journals.sagepub.com/doi/full/10.1177/0734371X20973441" title="Weißmüller, K.S., De Waele, L., & van Witteloostuijn, A. (2020). ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ Review of Public Personnel Administration."><img src="https://ksweissmueller.github.io/files/RoPPA1.png" alt="Public Service Motivation and Prosocial Rule-Breaking" width="84" height="120"/></a> 
@@ -39,7 +39,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
   
   <li value="10"><b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. <b>(accepted)</b>. ‘Satisficing or Maximizing in Public-Private Partnerships? A Laboratory Experiment on Strategic Bargaining.’ <i>Public Management Review</i>. https://10.1080/14719037.2021.2013072 [<a href="https://ksweissmueller.github.io/files/Weißmüller_et_al_2021_Bargaining_PMR_preprint.pdf">Preprint</a>]</li>
     
-  <li value="9"><b>Weißmüller, K.S.</b> & De Waele, L. <b>(accepted)</b>. ‘Would you Bribe your Lecturer? A Quasi-experimental Study on Burnout and Bribery in Higher Education.’ <i>Research in Higher Education</i>. https://doi.org/10.1007/s11162-021-09669-1 [<a href="https://doi.org/10.31219/osf.io/csvkd">OSF Preprint</a>]</li>
+  <li value="9"><b>Weißmüller, K.S.</b> & De Waele, L. <b>(2021)</b>. ‘Would you Bribe your Lecturer? A Quasi-experimental Study on Burnout and Bribery in Higher Education.’ <i>Research in Higher Education</i>. https://doi.org/10.1007/s11162-021-09669-1 [<a href="https://doi.org/10.1007/s11162-021-09669-1">Open Access</a>]</li>
   
   <li value="8">De Waele, L., <b>Weißmüller, K.S.</b>, & van Witteloostuijn, A. <b>(2021)</b>. ‘Bribery and the role of public service motivation and social value orientation. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ <i>Frontiers in Psychology - Organizational Psychology.</i> <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655964/full">https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655964/full</a> [Open Access].</li>
   
@@ -82,11 +82,13 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 <!-- <ol>
 
 Ritz, A., <b>Weißmüller, K.S.</b>, & Meynhardt, T. (2020). Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations.' <i>Review of Public Personnel Management</i>.
+
 Ritz, A., Steijn, A. J. (Bram), <b>Weißmüller, K.S.</b>, & Kerstin Alfes. (2019). ‘Critical life events as antecedents of public employees’ engagement and burnout.’ <i>Work & Stress</i>.
 
 Seidemann, I. & <b>Weißmüller, K.S.</b> (2019).‘Flipping the Coin – A Systematic Literature Review on Causes and Consequences of Workforce Homogeneity in the Public Sector.’ <i>Public Personnel Management</i>. 
 
 Weißmüller, K.S. (2018). ‘Return of the Behavioral Paradigm? A Systematic Review of Nudging in Higher Education.’ <i>Higher Education Quarterly</i>.
+
 Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten years later: a contemporary literature review.’ <i>Journal of Further and Higher Education</i>.
 <!-- 
 <li value="4"><b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., Ritz, A., Christensen, R.K., Gong, T., Hilgers, D., Homberg, F., Hung, M., Kim, S., Kolltveit, K., Kuo, M., Ma, L., Monteduro, F., Ripoll, G., Schmidthuber, L., Shim, D.C., Su, T., Walker, R., Xiao, H., Yang, S.L. (2020). ‘MICRO-LEVEL FOUNDATIONS OF CORRUPTION: THE DOUBLE-EDGED SWORD OF PUBLIC SERVICE MOTIVATION. Findings from a Multi-country Multi-lab Research Project’ <i>Journal of Public Administration Research and Theory</i>. </li>
