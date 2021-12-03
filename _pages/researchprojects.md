@@ -12,15 +12,13 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 
 [Corruption in the Public Sector (CorPuS)](#corpus)
 
-[Public Service Motivation in University Students](#PSM-students)
-
 [Risk in Public Private Partnerships (RiPPP)](#rippp)
 
 
 
 <br/>
 
-# 4. Deliberative Quality in Trade-related International Organizations <a name="IOs"></a>
+# 3. Deliberative Quality in Trade-related International Organizations <a name="IOs"></a>
 
 **An international research project funded by the Swiss Network for International Studies (<a href="https://snis.ch/">SNIS</a>)** (Jan. 2022 - Dec. 2023)
 * *Project coordinators:* <a href="http://usi.to/ror">Jean-Patrick Villeneuve</a> (Università della Svizzera italiana, Lugano, Switzerland); <a href="http://usi.to/4en">Alberto Bitonti</a> (Università della Svizzera italiana, Lugano, Switzerland)
@@ -37,7 +35,7 @@ The three organizations will be directly engaged not only through the case studi
 
 <br/>
 
-# 3. Corruption in the Public Sector (CorPuS)<a name="corpus"></a>
+# 2. Corruption in the Public Sector (CorPuS)<a name="corpus"></a>
 
 **A multi-country experimental study researching corruption in the public sector worldwide** (Jan. 2018 – Dec. 2022)
 
@@ -59,17 +57,6 @@ The three organizations will be directly engaged not only through the case studi
  </ol>
 
 </details>
-<br/>
-
-
-# 2. Public Service Motivation in University Students <a name="PSM-students"></a>
-
-**A multi-wave study on the role of PSM as a success factor in higher education** (Jul. 2018 – Jan. 2021)
-
-* *Principal researcher & project managers*: Kristina S. Weißmüller, & <a href="https://www.hsu-hh.de/marketing/team#details-0-0">Claudia Fantapie Altobelli</a>
-* *Other collaborators*: Nadja Breckau, Poorya Khazaeinejad, Nicole Lewin, Carmen Otto
-* Research project funded by the Chair of Marketing at Helmut-Schmidt-Universität, Hamburg, and the German Federal Ministry of Defense (BMVg).
-
 <br/>
 
 # 1. Risk in Public Private Partnerships (RiPPP) <a name="rippp"></a>
