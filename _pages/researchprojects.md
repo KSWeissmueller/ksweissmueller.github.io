@@ -8,7 +8,7 @@ author_profile: true
 I believe that the purpose of scholarship is to generate usable knowledge to solve real-life problems. In the spirit of open science, please feel free to contact me if you are interested in any of our projects!
 
 
-[Deliberative Quality in Trade-related International Organizations](#IOs)
+[Deliberative Quality in Trade-related International Organizations (SNIS)](#IOs)
 
 [Corruption in the Public Sector (CorPuS)](#corpus)
 
@@ -18,7 +18,7 @@ I believe that the purpose of scholarship is to generate usable knowledge to sol
 
 <br/>
 
-# 3. Deliberative Quality in Trade-related International Organizations <a name="IOs"></a>
+# 3. Deliberative Quality in Trade-related International Organizations (SNIS)<a name="IOs"></a>
 
 **An international research project funded by the Swiss Network for International Studies (<a href="https://snis.ch/">SNIS</a>)** (Jan. 2022 - Dec. 2023)
 * *Project coordinators:* <a href="http://usi.to/ror">Jean-Patrick Villeneuve</a> (Università della Svizzera italiana, Lugano, Switzerland); <a href="http://usi.to/4en">Alberto Bitonti</a> (Università della Svizzera italiana, Lugano, Switzerland)
