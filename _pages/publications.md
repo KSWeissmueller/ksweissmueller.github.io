@@ -103,7 +103,7 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
  
 <li value="35">Fischer, C., & <b>Weißmüller, K.S.</b> <b>(2021)</b>. ‘Hiding, Ignoring, Sharing, Correcting: Handling Errors in Public Organizations.’ <i>European Group for Public Administration (EGPA) Annual Conference, PSG XXII: Behavorial Public Administration, 7.-10.09.2021, Brussels, Belgium.</i></li>
   
-<li value="34">Weißmüller, K.S.</b>, & Rometsch, S.C. <b>(2021)</b>. ‘Public and private sector associations: Mapping civil servants' tacit dimensions of sector-specific sentiment in Switzerland, the US, and Germany.’ <i>European Group for Public Administration (EGPA) Annual Conference, PSG XXII: Behavorial Public Administration, 7.-10.09.2021, Brussels, Belgium.</i></li>
+<li value="34"><b>Weißmüller, K.S.</b>, & Rometsch, S.C. <b>(2021)</b>. ‘Public and private sector associations: Mapping civil servants' tacit dimensions of sector-specific sentiment in Switzerland, the US, and Germany.’ <i>European Group for Public Administration (EGPA) Annual Conference, PSG XXII: Behavorial Public Administration, 7.-10.09.2021, Brussels, Belgium.</i></li>
 
 <li value="33">Seidemann, I., & <b>Weißmüller, K.S.</b> <b>(2021)</b>. ‘Flipping the Coin: A SLR on Causes and Consequences of Workforce Ho-mogeneity in the Public Sector.’ <i>81st Annual Meeting of the Academy of Management (AoM), 29.07.-04.08.2021, online</i>.</li>
 
