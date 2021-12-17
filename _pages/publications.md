@@ -128,7 +128,7 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
 
 <li  value="24"><b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L. & Ritz, A. <b>(2020)</b>. ‘CORRUPTION IN PUBLIC, PRIVATE, AND HYBRID ORGANIZATIONS - Behavioral Evidence on the Context Dependency of Tolerating Bribery from a 10-country Experimental Study.’ <i>23rd International Research Society on Public Management (IRSPM) Conference, P3 Behavioral and Experimental Public Management, 22.04.-24.04.2020, Tampere, Finland & online</i>.</li>
 
-<li  value="23">Ritz, A., Steijn, A. J. (Bram), <b>Weißmüller, K.</b>, & Kerstin Alfes <b>(2020)</b>. ‘Critical life events as antecedents of public employees’ engagement and burnout.’ <i>23rd International Research Society on Public Management (IRSPM) Conference, P42 SIG Public Service Motivation, 22.04.-24.04.2020, Tampere, Finland & online</i>.</li> </ol>
+<li  value="23">Ritz, A., Steijn, A. J. (Bram), <b>Weißmüller, K.S.</b>, & Alfes, K. <b>(2020)</b>. ‘Critical life events as antecedents of public employees’ engagement and burnout.’ <i>23rd International Research Society on Public Management (IRSPM) Conference, P42 SIG Public Service Motivation, 22.04.-24.04.2020, Tampere, Finland & online</i>.</li> </ol>
 
 
 <details>
