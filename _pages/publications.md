@@ -177,6 +177,6 @@ Weißmüller, K.S. (2017). ‘Effective leadership in higher education – ten y
 
 <li  value="2"><b>Weißmüller, K.S. </b><b>(2016)</b>. ‘Asymmetries in risk preferences and risk behavior between public and private sector employees: Experimental evidence on sector-specific probability discounting.’ <i>20th International Research Society on Public Management (IRSPM) Conference 2016, 13.-15.04.2016, Hong Kong, PR China</i>.</li>
 
-<li  value="1"><b>Weißmüller, K.S.</b> <b>(2015)</b>: ‘<a href="https://ksweissmueller.github.io/files/Wei%C3%9Fm%C3%BCller_2015_Neuro_Gambling_Gaming.pdf">A Neuro-economic Perspective on Social Gaming and Social Gambling</a>.’ <i>Best-Poster-Award, Summer Interactive Symposium – Research 2.0, 08.-11.06.2015 Research Chair on Gambling, Concordia University, Montréal (Quebec), Canada</i>.</li></ol>
+<li  value="1"><b>Weißmüller, K.S.</b> <b>(2015)</b>. ‘<a href="https://ksweissmueller.github.io/files/Wei%C3%9Fm%C3%BCller_2015_Neuro_Gambling_Gaming.pdf">A Neuro-economic Perspective on Social Gaming and Social Gambling</a>.’ <i>Best-Poster-Award, Summer Interactive Symposium – Research 2.0, 08.-11.06.2015 Research Chair on Gambling, Concordia University, Montréal (Quebec), Canada</i>.</li></ol>
 
 </details>
