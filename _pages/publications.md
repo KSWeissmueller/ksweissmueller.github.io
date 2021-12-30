@@ -40,7 +40,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
   
    <li value="11">Meyerhofer, U., Ritz, A., <b>Weißmüller, K.S.</b> <b>(accepted)</b>. ‘Wenn Mitarbeitende Mitarbeitende entlassen: Personalabbau im Konsent.’ <i>zfo Zeitschrift Führung + Organisation</i>, XX (X). [<a href="https://ksweissmueller.github.io/files/Meyerhofer_et_al_Soziokratie_zfo_Preprint.pdf">Preprint</a>]</li>
    
-  <li value="10"><b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. <b>(2021)</b>. ‘Satisficing or Maximizing in Public-Private Partnerships? A Laboratory Experiment on Strategic Bargaining.’ <i>Public Management Review</i>. [<a href="https://doi.org/10.1080/14719037.2021.2013072">https://doi.org/10.1080/14719037.2021.2013072</a>] [<a href="https://ksweissmueller.github.io/files/Weißmüller_et_al_2021_Bargaining_PMR_preprint.pdf">Preprint</a>]</li>
+  <li value="10"><b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. <b>(2021)</b>. ‘Satisficing or Maximizing in Public-Private Partnerships? A Laboratory Experiment on Strategic Bargaining.’ <i>Public Management Review</i>. <a href="https://doi.org/10.1080/14719037.2021.2013072">https://doi.org/10.1080/14719037.2021.2013072</a> [<a href="https://ksweissmueller.github.io/files/Weißmüller_et_al_2021_Bargaining_PMR_preprint.pdf">Preprint</a>]</li>
     
   <li value="9"><b>Weißmüller, K.S.</b> & De Waele, L. <b>(2021)</b>. ‘Would you Bribe your Lecturer? A Quasi-experimental Study on Burnout and Bribery in Higher Education.’ <i>Research in Higher Education</i>. https://doi.org/10.1007/s11162-021-09669-1 [<a href="https://doi.org/10.1007/s11162-021-09669-1">Open Access</a>]</li>
   
