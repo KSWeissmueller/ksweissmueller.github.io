@@ -12,6 +12,9 @@ main:
     
   - title: "CorPuS Project"
     url: http://www.corpus-project.org
+    
+  - title: "SNIS Project"
+    url: https://snis.ch/projects/deliberative-quality-in-trade-related-international-organizations/
 
   - title: "Teaching"
     url: /teaching/
