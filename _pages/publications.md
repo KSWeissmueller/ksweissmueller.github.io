@@ -49,7 +49,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 
 
-
+  
 
 <h1>Other peer-reviewed Publications</h1> <a name="other"></a>
 
@@ -72,14 +72,14 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 </ol>
  
  
-  <br/>
+  <br></br>
    
 <h1>Scientific Reports and Consulting</h1> <a name="reports"></a>
 
 <ol>
- <li value="1">Ritz, A., <b>Weißmüller, K.S.</b>, Kalbermatten, C. <b>(2021)</b>. Evaluation Zertifizierungsverfahren Ehrenkodex Schweiz und Vergleich mit dem ZEWO-Gütesiegel. Evaluationsbericht zuhanden Stiftung Ehrenkodex. Kompetenzzentrum für Public Management, Universität Bern.</li>
+ <li value="1">Ritz, A., <b>Weißmüller, K.S.</b>, Kalbermatten, C. <b>(2021)</b>. Evaluation Zertifizierungsverfahren Ehrenkodex Schweiz und Vergleich mit dem ZEWO-Gütesiegel. Evaluationsbericht zuhanden Stiftung Ehrenkodex. Kompetenzzentrum für Public Management, Universität Bern.</li></ol>
   <br>
-  <br/>
+  </br>
     
 
 <h1>Conference Papers & Presentations</h1> <a name="conferences"></a>
