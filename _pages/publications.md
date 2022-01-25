@@ -62,31 +62,30 @@ An overview of my publications can also be found on <a href="https://scholar.goo
   
  <li  value="5"><b>Weißmüller, K.S.</b> & Künzler, Philippe. <b>(2021)</b>. ‘Thema: Netzwerke als hybride Organisationsform (Fallstudie 21)’ (p. 441-449), <a href="https://doi.org/10.1007/978-3-658-31068-4_50">https://doi.org/10.1007/978-3-658-31068-4_50</a>. In Adrian Ritz, Rudolf Blankart, Claus Jacobs, Andreas Lienhard, Doina Radulescu, & Fritz Sager (Eds.), Praxisfälle zu Public Management und Verwaltungswissenschaft – Ein multidisziplinärer Ansatz mit konzeptionellen Bausteinen, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31067-7</a>, Wiesbaden: Springer-Gabler.</li>
 
-  <li  value="4"><b>Weißmüller, K.S. (2021)</b>. ‘Fallstudie 29: Krisenmodus! Motivation und Identifikation bei befristet Beschäftigten?’(p. 289-298), <a href="https://doi.org/10.1007/978-3-658-31068-4_30">https://doi.org/10.1007/978-3-658-31068-4_30</a>. In Adrian Ritz, Rudolf Blankart, Claus Jacobs, Andreas Lienhard, Doina Radulescu, & Fritz Sager (Eds.), Praxisfälle zu Public Management und Verwaltungswissenschaft – Ein multidisziplinärer Ansatz mit konzeptionellen Bausteinen, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31067-7</a>, Wiesbaden: Springer-Gabler.</li>
+ <li  value="4"><b>Weißmüller, K.S. (2021)</b>. ‘Fallstudie 29: Krisenmodus! Motivation und Identifikation bei befristet Beschäftigten?’(p. 289-298), <a href="https://doi.org/10.1007/978-3-658-31068-4_30">https://doi.org/10.1007/978-3-658-31068-4_30</a>. In Adrian Ritz, Rudolf Blankart, Claus Jacobs, Andreas Lienhard, Doina Radulescu, & Fritz Sager (Eds.), Praxisfälle zu Public Management und Verwaltungswissenschaft – Ein multidisziplinärer Ansatz mit konzeptionellen Bausteinen, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31067-7</a>, Wiesbaden: Springer-Gabler.</li>
   
-  <li  value="3"><b>Weißmüller, K.S.</b> & Künzler, P.<b> (2021)</b>. ‘Fallstudie 21: Vernetzt kompetent: Grundlagen des Netzwerks- und Kooperations-managements für die öffentliche Verwaltung’ (p. 207-214), <a href="https://doi.org/10.1007/978-3-658-31068-4_22">https://doi.org/10.1007/978-3-658-31068-4_30</a>. In Adrian Ritz, Rudolf Blankart, Claus Jacobs, Andreas Lienhard, Doina Radulescu, & Fritz Sager (Eds.), Praxisfälle zu Public Management und Verwaltungswissenschaft – Ein multidisziplinärer Ansatz mit konzeptionellen Bausteinen, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31067-7</a>, Wiesbaden: Springer-Gabler.</li>
+ <li  value="3"><b>Weißmüller, K.S.</b> & Künzler, P.<b> (2021)</b>. ‘Fallstudie 21: Vernetzt kompetent: Grundlagen des Netzwerks- und Kooperations-managements für die öffentliche Verwaltung’ (p. 207-214), <a href="https://doi.org/10.1007/978-3-658-31068-4_22">https://doi.org/10.1007/978-3-658-31068-4_30</a>. In Adrian Ritz, Rudolf Blankart, Claus Jacobs, Andreas Lienhard, Doina Radulescu, & Fritz Sager (Eds.), Praxisfälle zu Public Management und Verwaltungswissenschaft – Ein multidisziplinärer Ansatz mit konzeptionellen Bausteinen, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31067-7</a>, Wiesbaden: Springer-Gabler.</li>
   
-  <li value="2"><b>Weißmüller, K.S. (2020)</b>. ‘Risk In Public Private Partnerships: Behavioral Experiments on Risk Preference, Risk Perception, and Risk Participation.’ <i>Doctoral thesis</i> at the Faculty of Business, Economics, and Social Sciences, University of Hamburg, 1st advisor: Prof Dr. Rick Vogel, 2nd advisor: Prof. Dr. Andreas Lange. <a href="https://ediss.sub.uni-hamburg.de/handle/ediss/8556">https://ediss.sub.uni-hamburg.de/handle/ediss/8556 </a></li> 
+ <li value="2"><b>Weißmüller, K.S. (2020)</b>. ‘Risk In Public Private Partnerships: Behavioral Experiments on Risk Preference, Risk Perception, and Risk Participation.’ <i>Doctoral thesis</i> at the Faculty of Business, Economics, and Social Sciences, University of Hamburg, 1st advisor: Prof Dr. Rick Vogel, 2nd advisor: Prof. Dr. Andreas Lange. <a href="https://ediss.sub.uni-hamburg.de/handle/ediss/8556">https://ediss.sub.uni-hamburg.de/handle/ediss/8556 </a></li> 
 
-  <li value="1"><b>Weißmüller, K.S.(2019)</b> ‘New Public Management in Higher Education – Exploring the origins of the paradigm shift in senior executives’ austerity strategies across 18 European countries.’ <i>Master's thesis in Higher Education</i> (M.A., with distinction) at the <a href="https://www.hul.uni-hamburg.de/">Hamburg Center for University Teaching and Learning (HUL)</a>, University of Hamburg, 1st advisor: Prof. Dr. K. Mayerberger, 2nd advisor: Prof. Dr. C. Bohndick. <a href="https://doi.org/10.25592/uhhfdm.119">https://doi.org/10.25592/uhhfdm.119</a>. [<a href="https://ksweissmueller.github.io/files/Weißmüller_2019_Leadership in HE_COCOPS.pdf">Full Version</a>]</li>
+ <li value="1"><b>Weißmüller, K.S.(2019)</b> ‘New Public Management in Higher Education – Exploring the origins of the paradigm shift in senior executives’ austerity strategies across 18 European countries.’ <i>Master's thesis in Higher Education</i> (M.A., with distinction) at the <a href="https://www.hul.uni-hamburg.de/">Hamburg Center for University Teaching and Learning (HUL)</a>, University of Hamburg, 1st advisor: Prof. Dr. K. Mayerberger, 2nd advisor: Prof. Dr. C. Bohndick. <a href="https://doi.org/10.25592/uhhfdm.119">https://doi.org/10.25592/uhhfdm.119</a>. [<a href="https://ksweissmueller.github.io/files/Weißmüller_2019_Leadership in HE_COCOPS.pdf">Full Version</a>]</li>
 </ol>
  
  
-  
+  <br/>
    
-<h1>Scientific Reports and Consulting</h1> <a name="reports">
+<h1>Scientific Reports and Consulting</h1> <a name="reports"></a>
 
 <ol>
-<li value="1">Ritz, A., <b>Weißmüller, K.S.</b>, Kalbermatten, C. <b>(2021)</b>. Evaluation Zertifizierungsverfahren Ehrenkodex Schweiz und Vergleich mit dem ZEWO-Gütesiegel. Evaluationsbericht zuhanden Stiftung Ehrenkodex. Kompetenzzentrum für Public Management, Universität Bern.</li>
-  
-  
+ <li value="1">Ritz, A., <b>Weißmüller, K.S.</b>, Kalbermatten, C. <b>(2021)</b>. Evaluation Zertifizierungsverfahren Ehrenkodex Schweiz und Vergleich mit dem ZEWO-Gütesiegel. Evaluationsbericht zuhanden Stiftung Ehrenkodex. Kompetenzzentrum für Public Management, Universität Bern.</li>
+  <br>
+  <br/>
     
 
 <h1>Conference Papers & Presentations</h1> <a name="conferences"></a>
 
 <ol>
- 
-<li value="35">Fischer, C., & <b>Weißmüller, K.S.</b> <b>(2021)</b>. ‘Hiding, Ignoring, Sharing, Correcting: Handling Errors in Public Organizations.’ <i>European Group for Public Administration (EGPA) Annual Conference, PSG XXII: Behavorial Public Administration, 7.-10.09.2021, Brussels, Belgium.</i></li>
+ <li value="35">Fischer, C., & <b>Weißmüller, K.S.</b> <b>(2021)</b>. ‘Hiding, Ignoring, Sharing, Correcting: Handling Errors in Public Organizations.’ <i>European Group for Public Administration (EGPA) Annual Conference, PSG XXII: Behavorial Public Administration, 7.-10.09.2021, Brussels, Belgium.</i></li>
   
 <li value="34"><b>Weißmüller, K.S.</b>, & Rometsch, S.C. <b>(2021)</b>. ‘Public and private sector associations: Mapping civil servants' tacit dimensions of sector-specific sentiment in Switzerland, the US, and Germany.’ <i>European Group for Public Administration (EGPA) Annual Conference, PSG XXII: Behavorial Public Administration, 7.-10.09.2021, Brussels, Belgium.</i></li>
 
