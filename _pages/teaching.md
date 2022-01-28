@@ -58,7 +58,7 @@ Feel free to let me know what you think!  <a href="mailto:kristina.weissmueller@
 
 Executive Teaching <a name="Executive-level"></a>
 -------
-*	‘**Methods & Rhetoric: Applied research methods**’, *Executive Master in Public Administration (Exec. MPA)*, lecture teaching (fall 2019 & 2021); University of Bern, Switzerland. 
+*	‘**Methods & Rhetoric: Applied research methods**’, *Executive Master of Public Administration (Exec. MPA)*, lecture teaching (fall 2019 & 2021); University of Bern, Switzerland. 
 
 <p></p>
 
