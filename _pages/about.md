@@ -15,7 +15,7 @@ I study (1) public sector corruption – bribery and rule breaking – from a be
 
 My work has been published in various journals including the *Journal of Public Administration Research and Theory*, *Public Management Review*, *Frontiers in Psychology*, and *Journal of Business Research*.
 
-Currently, I focus on conducting a multi-national study to reveal the micro-foundations of public sector corruption and institutional deviance (<a href="http://www.corpus-project.org/" title="http://www.corpus-project.org/" style="text-decoration:underline;" target="_blank" >CorPuS project</a>). Feel free to contact me if you want to know more.
+Currently, I am conducting multi-national research projects on the micro-foundations of public sector corruption (<a href="http://www.corpus-project.org/" title="http://www.corpus-project.org/" style="text-decoration:underline;" target="_blank" >CorPuS project</a>) and deliberative quality in international organizations (<a href="https://snis.ch/projects/deliberative-quality-in-trade-related-international-organizations/" title="https://snis.ch/projects/deliberative-quality-in-trade-related-international-organizations/" style="text-decoration:underline;" target="_blank" >SNIS project</a>). Feel free to contact me if you want to know more.
 
 Best,
 
