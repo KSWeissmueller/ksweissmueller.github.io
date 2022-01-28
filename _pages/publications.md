@@ -54,7 +54,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 <h1>Other peer-reviewed Publications</h1> <a name="other"></a>
 
  
-<a href="https://ediss.sub.uni-hamburg.de/handle/ediss/8556" title="Risk In Public Private Partnerships: Behavioral Experiments on Risk Preference, Risk Perception, and Risk Participation"> <img src="https://raw.githubusercontent.com/KSWeissmueller/ksweissmueller.github.io/master/files/PhD.png" alt="PhD thesis" width="84" height="120"/></a> <a href="https://www.springer.com/de/book/9783658310677" title="Weißmüller, K.S. (2021). ‘Krisenmodus! Motivation und Identifikation bei befristet Beschäftigten?’. In: Adrian Ritz, Rudolf Blankart, Claus  Jacobs, Andreas Lienhard, Doina  Radulescu, & Fritz Sager (Eds.), Praxisfälle zu Public Management und Verwaltungswissenschaft, ISBN: 978-3-658-31068-4, Wiesbaden: Springer-Gabler"> <img src="https://raw.githubusercontent.com/KSWeissmueller/ksweissmueller.github.io/master/files/9783658310677.jpg" alt="Motivation-Fallstudien" width="84" height="120"/></a> <a href="https://www.springer.com/de/book/9783658310677" title="Weißmüller, K.S. & Künzler, P. (2021). ‘Vernetzt kompetent: Grundlagen des Netzwerks-und Kooperationsmanagements für die öffentliche Verwaltung’. In: Adrian Ritz, Rudolf Blankart, Claus  Jacobs, Andreas Lienhard, Doina  Radulescu, & Fritz Sager (Eds.), Praxisfälle zu Public Management und Verwaltungswissenschaft, ISBN: 978-3-658-31068-4, Wiesbaden: Springer-Gabler"> <img src="https://raw.githubusercontent.com/KSWeissmueller/ksweissmueller.github.io/master/files/9783658310677.jpg" alt="Netzwerk-Fallstudie" width="84" height="120"/></a>
+<a href="https://www.springer.com/de/book/9783658310677" title="Weißmüller, K.S. (2021). ‘Krisenmodus! Motivation und Identifikation bei befristet Beschäftigten?’. In: Adrian Ritz, Rudolf Blankart, Claus  Jacobs, Andreas Lienhard, Doina  Radulescu, & Fritz Sager (Eds.), Praxisfälle zu Public Management und Verwaltungswissenschaft, ISBN: 978-3-658-31068-4, Wiesbaden: Springer-Gabler"> <img src="https://raw.githubusercontent.com/KSWeissmueller/ksweissmueller.github.io/master/files/9783658310677.jpg" alt="Motivation-Fallstudien" width="84" height="120"/></a> <a href="https://www.springer.com/de/book/9783658310677" title="Weißmüller, K.S. & Künzler, P. (2021). ‘Vernetzt kompetent: Grundlagen des Netzwerks-und Kooperationsmanagements für die öffentliche Verwaltung’. In: Adrian Ritz, Rudolf Blankart, Claus  Jacobs, Andreas Lienhard, Doina  Radulescu, & Fritz Sager (Eds.), Praxisfälle zu Public Management und Verwaltungswissenschaft, ISBN: 978-3-658-31068-4, Wiesbaden: Springer-Gabler"> <img src="https://raw.githubusercontent.com/KSWeissmueller/ksweissmueller.github.io/master/files/9783658310677.jpg" alt="Netzwerk-Fallstudie" width="84" height="120"/></a><a href="https://ediss.sub.uni-hamburg.de/handle/ediss/8556" title="Risk In Public Private Partnerships: Behavioral Experiments on Risk Preference, Risk Perception, and Risk Participation"> <img src="https://raw.githubusercontent.com/KSWeissmueller/ksweissmueller.github.io/master/files/PhD.png" alt="PhD thesis" width="84" height="120"/></a> 
 
 <ol>
    
@@ -72,7 +72,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 </ol>
  
  
-  <br></br>
+  <br>
    
 <h1>Scientific Reports and Consulting</h1> <a name="reports"></a>
 
