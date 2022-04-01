@@ -22,7 +22,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
   
   
-<img src="https://ksweissmueller.github.io/files/frontiers.jpg" width="84" height="120"/>){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is left aligned.
+<img src="https://ksweissmueller.github.io/files/frontiers.jpg" width="84" height="120"/>) TEXT  <li value="7">De Waele, L., <b>Weißmüller, K.S.</b>, & van Witteloostuijn, A. <b>(2021)</b>. ‘Bribery and the role of public service motivation and social value orientation. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ <i>Frontiers in Psychology - Organizational Psychology.</i> <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655964/full">https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655964/full</a> [Open Access]</li>
   
 <ol reversed>
   
