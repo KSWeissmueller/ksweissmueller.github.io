@@ -22,7 +22,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
   
   
-  ![image-left]({{ site.url }}{{ site.baseurl }}"<img src="https://ksweissmueller.github.io/files/frontiers.jpg" width="84" height="120"/>){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is left aligned.
+<img src="https://ksweissmueller.github.io/files/frontiers.jpg" width="84" height="120"/>){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is left aligned.
   
 <ol reversed>
   
