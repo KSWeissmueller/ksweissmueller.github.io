@@ -63,11 +63,10 @@ An overview of my publications can also be found on <a href="https://scholar.goo
   <a href="https://ediss.sub.uni-hamburg.de/handle/ediss/8556" title="Risk In Public Private Partnerships: Behavioral Experiments on Risk Preference, Risk Perception, and Risk Participation"> <img src="https://raw.githubusercontent.com/KSWeissmueller/ksweissmueller.github.io/master/files/PhD.png" alt="PhD thesis" width="84" height="120"></a> 
 
 
-   
-  <a href="https://www.springer.com/de/book/9783658310677" title="Weißmüller, K.S. & Künzler, P. (2021). ‘Vernetzt kompetent: Grundlagen des Netzwerks-und Kooperationsmanagements für die öffentliche Verwaltung’. In: Adrian Ritz, Rudolf Blankart, Claus  Jacobs, Andreas Lienhard, Doina  Radulescu, & Fritz Sager (Eds.), Praxisfälle zu Public Management und Verwaltungswissenschaft, ISBN: 978-3-658-31068-4, Wiesbaden: Springer-Gabler"> <img src="https://raw.githubusercontent.com/KSWeissmueller/ksweissmueller.github.io/master/files/9783658310677.jpg" alt="Netzwerk-Fallstudie" width="84" height="120" style="float: left;" ><p><b>Weißmüller, K.S. (2021)</b>. ‘Thema: Organisationale Identifikation (Fallstudie 29)’ (p. 495-498), <a href="https://doi.org/10.1007/978-3-658-31068-4_58">https://doi.org/10.1007/978-3-658-31068-4_58</a>. In Adrian Ritz, Rudolf Blankart, Claus Jacobs, Andreas Lienhard, Doina Radulescu, & Fritz Sager (Eds.), Praxisfälle zu Public Management und Verwaltungswissenschaft – Ein multidisziplinärer Ansatz mit konzeptionellen Bausteinen, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31067-7</a>, Wiesbaden: Springer-Gabler.</p>
+
  
     
-<img src="https://raw.githubusercontent.com/KSWeissmueller/ksweissmueller.github.io/master/files/9783658310677.jpg" alt="Netzwerk-Fallstudie" width="84" height="120" align="left" /><p>Your text goes here.</p>
+<img src="https://raw.githubusercontent.com/KSWeissmueller/ksweissmueller.github.io/master/files/9783658310677.jpg" alt="Netzwerk-Fallstudie" width="84" height="120" align="left" /><p><b>Weißmüller, K.S. (2021)</b>. ‘Thema: Organisationale Identifikation (Fallstudie 29)’ (p. 495-498), <a href="https://doi.org/10.1007/978-3-658-31068-4_58">https://doi.org/10.1007/978-3-658-31068-4_58</a>. In Adrian Ritz, Rudolf Blankart, Claus Jacobs, Andreas Lienhard, Doina Radulescu, & Fritz Sager (Eds.), Praxisfälle zu Public Management und Verwaltungswissenschaft – Ein multidisziplinärer Ansatz mit konzeptionellen Bausteinen, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31067-7</a>, Wiesbaden: Springer-Gabler.</p>
     
     
   
