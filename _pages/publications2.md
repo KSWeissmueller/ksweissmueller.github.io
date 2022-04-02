@@ -70,22 +70,8 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 <a href="https://ediss.sub.uni-hamburg.de/handle/ediss/8556" title="Risk In Public Private Partnerships: Behavioral Experiments on Risk Preference, Risk Perception, and Risk Participation"> <img src="https://raw.githubusercontent.com/KSWeissmueller/ksweissmueller.github.io/master/files/PhD.png" alt="PhD thesis" width="84" height="120" align="left" /></a><p><b>Weißmüller, K.S. (2020)</b>. ‘Risk In Public Private Partnerships: Behavioral Experiments on Risk Preference, Risk Perception, and Risk Participation.’ <i>Doctoral thesis</i> at the Faculty of Business, Economics, and Social Sciences, University of Hamburg, 1st advisor: Prof Dr. Rick Vogel, 2nd advisor: Prof. Dr. Andreas Lange. <a href="https://ediss.sub.uni-hamburg.de/handle/ediss/8556">https://ediss.sub.uni-hamburg.de/handle/ediss/8556 </a></p> 
  
   <br></br> 
-<a href="https://doi.org/10.25592/uhhfdm.119" title="New Public Management in Higher Education"> <img src="https://raw.githubusercontent.com/KSWeissmueller/ksweissmueller.github.io/master/files/uhh.png" alt="PhD thesis" width="84" height="120" align="left" /></a><p><b>Weißmüller, K.S.(2019)</b> ‘New Public Management in Higher Education – Exploring the origins of the paradigm shift in senior executives’ austerity strategies across 18 European countries.’ <i>Master's thesis in Higher Education</i> (M.A., with distinction) at the <a href="https://www.hul.uni-hamburg.de/">Hamburg Center for University Teaching and Learning (HUL)</a>, University of Hamburg, 1st advisor: Prof. Dr. K. Mayerberger, 2nd advisor: Prof. Dr. C. Bohndick. <a href="https://doi.org/10.25592/uhhfdm.119">https://doi.org/10.25592/uhhfdm.119</a>. [<a href="https://ksweissmueller.github.io/files/Weißmüller_2019_Leadership in HE_COCOPS.pdf">Full Version</a>]</p> 
+<a href="https://doi.org/10.25592/uhhfdm.119" title="New Public Management in Higher Education"> <img src="https://raw.githubusercontent.com/KSWeissmueller/ksweissmueller.github.io/master/files/uhh.png" alt="MA thesis" width="84" height="84" align="left" /></a><p><b>Weißmüller, K.S.(2019)</b> ‘New Public Management in Higher Education – Exploring the origins of the paradigm shift in senior executives’ austerity strategies across 18 European countries.’ <i>Master's thesis in Higher Education</i> (M.A., with distinction) at the <a href="https://www.hul.uni-hamburg.de/">Hamburg Center for University Teaching and Learning (HUL)</a>, University of Hamburg, 1st advisor: Prof. Dr. K. Mayerberger, 2nd advisor: Prof. Dr. C. Bohndick. <a href="https://doi.org/10.25592/uhhfdm.119">https://doi.org/10.25592/uhhfdm.119</a>. [<a href="https://ksweissmueller.github.io/files/Weißmüller_2019_Leadership in HE_COCOPS.pdf">Full Version</a>]</p> 
  
-  <br></br>
-  
-
-  
-
-  
-
-
-    
-
-
-
-
-
 
    
 <h1>Scientific Reports and Consulting</h1> <a name="reports"></a>
