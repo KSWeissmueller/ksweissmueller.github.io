@@ -53,7 +53,7 @@ author_profile: true
 <img src="https://ksweissmueller.github.io/files/JPART1.png" alt="Sector-specific associations, trust, and survival of PPPs" width="84" height="120" align="left" /> <p> <b>Weißmüller, K.S.</b> & Vogel, R. <b>(2021)</b>. 'Sector-specific associations, trust, and survival of PPPs: A behavioral experiment based on the centipede game.' <i>Journal of Public Administration Research and Theory</i>, 31(3): 578–595. <a href="https://doi.org/10.1093/jopart/muaa050">https://doi.org/10.1093/jopart/muaa050</a>. [<a href="https://ksweissmueller.github.io/files/Weissmueller_Vogel_2020_JPART_preprint.pdf">Preprint</a>]</p>
 
 <br><br>
-
+  
 <a href="https://doi.org/10.25592/impactfree32" title="Weißmüller, K.S. (2020). ‘Lehren als zentrale Aufgabe der Wissenschaft: Drei Thesen zu Ideal und Realität’. Impact Free: Journal für freie Bildungswissenschaftler 32, 1-8, Hamburg."></a><img src="https://ksweissmueller.github.io/files/Impact_Free_32_cover.png" alt="Lehren als zentrale Aufgabe der Wissenschaft - 3 Thesen" width="84" height="120" align="left" /> <p><b>Weißmüller, K.S. (2020)</b>. ‘Lehren als zentrale Aufgabe der Wissenschaft: Drei Thesen zu Ideal und Realität’. <i>Impact Free: Journal für freie Bildungswissenschaftler</i> 32, 1-8, <a href="https://doi.org/10.25592/impactfree32">https://doi.org/10.25592/impactfree32</a>.</p> 
 
 <br><br>
