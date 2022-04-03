@@ -15,10 +15,9 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 
 
-<img src="https://ksweissmueller.github.io/files/RoPPA2.png" alt="title" width="84" height="120" align="left" /><p>textblock</p>
+<img src="https://ksweissmueller.github.io/files/RoPPA2.png" alt="title" width="84" height="120" align="left" /><p>textblock</p><br><p>textblock</p><br><p>textblock</p><br><p>textblock</p><br><p>textblock</p><br>
 <br>
 
-<br/>
 
 <h1>Peer-Reviewed Journal Articles</h1> <a name="papers">
   
