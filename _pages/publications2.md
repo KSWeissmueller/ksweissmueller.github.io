@@ -18,9 +18,9 @@ author_profile: true
 
 <h1>Peer-Reviewed Journal Articles</h1> <a name="papers">
   
-<img src="https://ksweissmueller.github.io/files/RoPPA2.png" alt="Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations" width="70" height="100" align="left" style="float:right; margin-right: 30px;" /> Ritz, A., <b>Weißmüller, K.S.</b>, & Meynhardt, T. <b>(accepted)</b>. Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations.' <i>Review of Public Personnel Administration</i>, XX (X).
+<img src="https://ksweissmueller.github.io/files/RoPPA2.png" alt="Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations" width="84" height="120" align="left" style="float:right; margin-right: 30px;" /> Ritz, A., <b>Weißmüller, K.S.</b>, & Meynhardt, T. <b>(accepted)</b>. Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations.' <i>Review of Public Personnel Administration</i>, XX (X).
 
-<br><br>
+<br>
 
 <a href="https://ksweissmueller.github.io/files/Meyerhofer_et_al_Soziokratie_zfo_Preprint.pdf" title="Meyerhofer, Ursula, Ritz, Adrian, Weißmüller, K.S. (accepted). ‘Wenn Mitarbeitende Mitarbeitende entlassen: Personalabbau im Konsent.’ zfo Zeitschrift Führung + Organisation."></a>
 <img src="https://ksweissmueller.github.io/files/zfo.jpg" alt="Wenn Mitarbeitende Mitarbeitende entlassen" width="84" height="120" align="left" /> Meyerhofer, U., Ritz, A., <b>Weißmüller, K.S.</b> <b>(accepted)</b>. ‘Wenn Mitarbeitende Mitarbeitende entlassen: Personalabbau im Konsent.’ <i>zfo Zeitschrift Führung + Organisation</i>, XX (X). [<a href="https://ksweissmueller.github.io/files/Meyerhofer_et_al_Soziokratie_zfo_Preprint.pdf">Preprint</a>]
