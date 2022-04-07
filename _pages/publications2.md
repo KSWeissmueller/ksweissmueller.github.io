@@ -19,11 +19,15 @@ author_profile: true
 <h1>Peer-Reviewed Journal Articles</h1> <a name="papers">
   
 <img src="https://ksweissmueller.github.io/files/RoPPA2.png" alt="Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations" width="84" height="120" align="left" style="float:right; margin-right: 30px;" /> Ritz, A., <b>Weißmüller, K.S.</b>, & Meynhardt, T. <b>(accepted)</b>. Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations.' <i>Review of Public Personnel Administration</i>, XX (X).
-<br><br>
-<a href="https://ksweissmueller.github.io/files/Meyerhofer_et_al_Soziokratie_zfo_Preprint.pdf" title="Meyerhofer, Ursula, Ritz, Adrian, Weißmüller, K.S. (accepted). ‘Wenn Mitarbeitende Mitarbeitende entlassen: Personalabbau im Konsent.’ zfo Zeitschrift Führung + Organisation."></a>
+
+  <br><br>
+
+  <a href="https://ksweissmueller.github.io/files/Meyerhofer_et_al_Soziokratie_zfo_Preprint.pdf" title="Meyerhofer, Ursula, Ritz, Adrian, Weißmüller, K.S. (accepted). ‘Wenn Mitarbeitende Mitarbeitende entlassen: Personalabbau im Konsent.’ zfo Zeitschrift Führung + Organisation."></a>
 <img src="https://ksweissmueller.github.io/files/zfo.jpg" alt="Wenn Mitarbeitende Mitarbeitende entlassen" width="84" height="120" align="left" /> Meyerhofer, U., Ritz, A., <b>Weißmüller, K.S.</b> <b>(accepted)</b>. ‘Wenn Mitarbeitende Mitarbeitende entlassen: Personalabbau im Konsent.’ <i>zfo Zeitschrift Führung + Organisation</i>, XX (X). [<a href="https://ksweissmueller.github.io/files/Meyerhofer_et_al_Soziokratie_zfo_Preprint.pdf">Preprint</a>]
-<br><br>    
-<a href="https://doi.org/10.1080/14719037.2021.2013072" title="Weißmüller, K.S., Bouwman, R., & Vogel, R. (accepted). ‘Satisficing or Maximizing in Public-Private Partnerships? A Laboratory Experiment on Strategic Bargaining.’ Public Management Review."><img src="https://ksweissmueller.github.io/files/PMR1.jpg" alt="Satisficing or Maximizing in Public-Private Partnerships?" width="84" height="120" align="left" /></a>  <b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. <b>(2021)</b>. ‘Satisficing or Maximizing in Public-Private Partnerships? A Laboratory Experiment on Strategic Bargaining.’ <i>Public Management Review</i>. <a href="https://doi.org/10.1080/14719037.2021.2013072">https://doi.org/10.1080/14719037.2021.2013072</a> [<a href="https://ksweissmueller.github.io/files/Weißmüller_et_al_2021_Bargaining_PMR_preprint.pdf">Preprint</a>]
+
+  <br><br>    
+
+  <a href="https://doi.org/10.1080/14719037.2021.2013072" title="Weißmüller, K.S., Bouwman, R., & Vogel, R. (accepted). ‘Satisficing or Maximizing in Public-Private Partnerships? A Laboratory Experiment on Strategic Bargaining.’ Public Management Review."><img src="https://ksweissmueller.github.io/files/PMR1.jpg" alt="Satisficing or Maximizing in Public-Private Partnerships?" width="84" height="120" align="left" /></a>  <b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. <b>(2021)</b>. ‘Satisficing or Maximizing in Public-Private Partnerships? A Laboratory Experiment on Strategic Bargaining.’ <i>Public Management Review</i>. <a href="https://doi.org/10.1080/14719037.2021.2013072">https://doi.org/10.1080/14719037.2021.2013072</a> [<a href="https://ksweissmueller.github.io/files/Weißmüller_et_al_2021_Bargaining_PMR_preprint.pdf">Preprint</a>]
 
 <br><br>    
 
