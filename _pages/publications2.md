@@ -34,12 +34,12 @@ author_profile: true
 <a href="https://doi.org/10.1007/s11162-021-09669-1" title="Weißmüller, K.S. & De Waele, L. (2021). ‘Would you Bribe your Lecturer? A Quasi-experimental Study on Burnout and Bribery in Higher Education.’ Research in Higher Education."></a>
 <img src="https://ksweissmueller.github.io/files/RiHE1.jpg" alt="Would you Bribe your Lecturer?" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> <b>Weißmüller, K.S.</b> & De Waele, L. <b>(2021)</b>. ‘Would you Bribe your Lecturer? A Quasi-experimental Study on Burnout and Bribery in Higher Education.’ <i>Research in Higher Education</i>. https://doi.org/10.1007/s11162-021-09669-1 [<a href="https://doi.org/10.1007/s11162-021-09669-1">Open Access</a>]
 
-<br><br>  
+<br>  
 
 <a href="https://www.tandfonline.com/doi/abs/10.1080/14719037.2020.1862287?journalCode=rpxm20" title="Weißmüller, K.S. (2021). ‘Publicness and Micro-Level Risk Behaviour: Experimental Evidence on Stereotypical Discounting Behaviour.’ Public Management Review."></a>
 <img src="https://ksweissmueller.github.io/files/PMR1.jpg" alt="Publicness and Micro-Level Risk Behaviour" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> <b>Weißmüller, K.S. (2022)</b>. ‘Publicness and Micro-Level Risk Behaviour: Experimental Evidence on Stereotypical Discounting Behaviour.’ <i>Public Management Review</i>, 24(4): 601-630 <a href="https://doi.org/10.1080/14719037.2020.1862287">https://doi.org/10.1080/14719037.2020.1862287</a>. [<a href="https://ksweissmueller.github.io/files/Weißmüller_2020_Discounting_PMR_preprint.pdf">Preprint</a>]
 
-  <br>
+<br>
 
 <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655964/full" title="De Waele, L., Weißmüller, K.S., & van Witteloostuijn, A. (2021). ‘Bribery and the role of public service motivation and social value orientation. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ Frontiers in Psychology - Organizational Psychology."><img src="https://ksweissmueller.github.io/files/frontiers.jpg" alt="Bribery, PSM, and SVO" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /></a> De Waele, L., <b>Weißmüller, K.S.</b>, & van Witteloostuijn, A. <b>(2021)</b>. ‘Bribery and the role of public service motivation and social value orientation. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ <i>Frontiers in Psychology - Organizational Psychology.</i> <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655964/full">https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655964/full</a> [Open Access]
 
@@ -48,25 +48,25 @@ author_profile: true
 <a href="https://journals.sagepub.com/doi/full/10.1177/0734371X20973441" title="Weißmüller, K.S., De Waele, L., & van Witteloostuijn, A. (2020). ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ Review of Public Personnel Administration."></a>
 <img src="https://ksweissmueller.github.io/files/RoPPA1.png" alt="Public Service Motivation and Prosocial Rule-Breaking" width="84" height="120" align="left"  style="float:left; margin-right: 30px;" /> <b>Weißmüller, K.S.</b>, De Waele, L., & van Witteloostuijn, A. <b>(2022)</b>. ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ <i>Review of Public Personnel Administration</i>, 42(2): 258-286. <a href="https://journals.sagepub.com/doi/full/10.1177/0734371X20973441">https://doi.org/10.1177/0734371X20973441</a>. [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_2020_RoPPA_PSRB_preprint.pdf">Preprint</a>]
 
-<br><br> 
+<br>
 
 <a href="https://doi.org/10.1093/jopart/muaa050" title="Weißmüller, K.S. & Vogel, R. (2021). ‘Sector-specific associations, trust, and survival of PPPs: A behavioral experiment based on the centipede game.’ Journal of Public Administration Research and Theory. https://doi.org/10.1093/jopart/muaa050."></a>
 <img src="https://ksweissmueller.github.io/files/JPART1.png" alt="Sector-specific associations, trust, and survival of PPPs" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> <b>Weißmüller, K.S.</b> & Vogel, R. <b>(2021)</b>. 'Sector-specific associations, trust, and survival of PPPs: A behavioral experiment based on the centipede game.' <i>Journal of Public Administration Research and Theory</i>, 31(3): 578–595. <a href="https://doi.org/10.1093/jopart/muaa050">https://doi.org/10.1093/jopart/muaa050</a>. [<a href="https://ksweissmueller.github.io/files/Weissmueller_Vogel_2020_JPART_preprint.pdf">Preprint</a>]
 
-<br><br>
+<br>
   
 <a href="https://doi.org/10.25592/impactfree32" title="Weißmüller, K.S. (2020). ‘Lehren als zentrale Aufgabe der Wissenschaft: Drei Thesen zu Ideal und Realität’. Impact Free: Journal für freie Bildungswissenschaftler 32, 1-8, Hamburg."></a><img src="https://ksweissmueller.github.io/files/Impact_Free_32_cover.png" alt="Lehren als zentrale Aufgabe der Wissenschaft - 3 Thesen" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> <b>Weißmüller, K.S. (2020)</b>. ‘Lehren als zentrale Aufgabe der Wissenschaft: Drei Thesen zu Ideal und Realität’. <i>Impact Free: Journal für freie Bildungswissenschaftler</i> 32, 1-8, <a href="https://doi.org/10.25592/impactfree32">https://doi.org/10.25592/impactfree32</a>.
 
-<br><br>
+<br>
 
 <a href="https://doi.org/10.25592/impactfree28" title="Weißmüller, K.S. (2020). ‘Zwei Thesen zum disruptiven Potenzial von OER für öffentliche Hochschulen’. Impact Free: Journal für freie Bildungswissenschaftler 28, 1-9, Hamburg."><img src="https://ksweissmueller.github.io/files/Impact_Free_28_cover.png" alt="Zwei Thesen zum disruptiven Potenzial von OER für öffentliche Hochschulen" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> </a> <b>Weißmüller, K.S. (2020)</b>. ‘Zwei Thesen zum disruptiven Potenzial von OER für öffentliche Hochschulen‘. <i>Impact Free: Journal für freie Bildungswissenschaftler</i> 28, 1-9, <a href="https://doi.org/10.25592/impactfree28">https://doi.org/10.25592/impactfree28</a>.
 
-<br><br>
+<br>
 
 <a href="https://doi.org/10.1016/j.jbusres.2019.01.040" title="Fiedler, I., Kairouz, S., Costes, J.-M., & Weißmüller, K.S. (2019). ‘Gambling Spending and Its Concentration on Problem Gamblers.’ Journal of Business Research 98 (5): 82-91."></a>
   <img src="https://ksweissmueller.github.io/files/JBE1.gif" alt="Gambling Spending and Its Concentration on Problem Gamblers" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> Fiedler, I., Kairouz, S., Costes, J.-M., & <b>Weißmüller, K.S. (2019)</b>. ‘Gambling Spending and Its Concentration on Problem Gamblers.’ <i>Journal of Business Research</i> 98 (5): 82-91, <a href="https://doi.org/10.1016/j.jbusres.2019.01.040">https://doi.org/10.1016/j.jbusres.2019.01.040</a>. [<a href="https://ksweissmueller.github.io/files/Fiedler_et_al_2019_Gambling.pdf">Preprint</a>]
 
-<br><br>
+<br>
   
 <a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2" title="De Waele, L. & Weißmüller, K.S. (2019). ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management) 24 (2): 43-56."></a> <img src="https://ksweissmueller.github.io/files/Vtijd_Cover.png" alt="Over de bureaucratische paradox" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> De Waele, L. & <b>Weißmüller, K.S. (2019)</b>. ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ <i>Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management)</i> 24 (2): 43-56, <a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2">http://vtom.be/table_of_content.aspx?sy=2019&pn=2</a>. [<a href="https://ksweissmueller.github.io/files/DeWaele_Weissmüller_2019_VTOM.pdf">Preprint</a>]
 <br>
