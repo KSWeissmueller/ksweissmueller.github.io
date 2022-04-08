@@ -20,16 +20,16 @@ author_profile: true
   
 <img src="https://ksweissmueller.github.io/files/RoPPA2.png" alt="Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> Ritz, A., <b>Weißmüller, K.S.</b>, & Meynhardt, T. <b>(accepted)</b>. Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations.' <i>Review of Public Personnel Administration</i>, XX (X).
 
-  <br><br>
+  <br>
 
   <a href="https://ksweissmueller.github.io/files/Meyerhofer_et_al_Soziokratie_zfo_Preprint.pdf" title="Meyerhofer, Ursula, Ritz, Adrian, Weißmüller, K.S. (accepted). ‘Wenn Mitarbeitende Mitarbeitende entlassen: Personalabbau im Konsent.’ zfo Zeitschrift Führung + Organisation."></a>
 <img src="https://ksweissmueller.github.io/files/zfo.jpg" alt="Wenn Mitarbeitende Mitarbeitende entlassen" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> Meyerhofer, U., Ritz, A., <b>Weißmüller, K.S.</b> <b>(accepted)</b>. ‘Wenn Mitarbeitende Mitarbeitende entlassen: Personalabbau im Konsent.’ <i>zfo Zeitschrift Führung + Organisation</i>, XX (X). [<a href="https://ksweissmueller.github.io/files/Meyerhofer_et_al_Soziokratie_zfo_Preprint.pdf">Preprint</a>]
 
-  <br><br>    
+  <br>  
 
   <a href="https://doi.org/10.1080/14719037.2021.2013072" title="Weißmüller, K.S., Bouwman, R., & Vogel, R. (accepted). ‘Satisficing or Maximizing in Public-Private Partnerships? A Laboratory Experiment on Strategic Bargaining.’ Public Management Review."><img src="https://ksweissmueller.github.io/files/PMR1.jpg" alt="Satisficing or Maximizing in Public-Private Partnerships?" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /></a>  <b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. <b>(2021)</b>. ‘Satisficing or Maximizing in Public-Private Partnerships? A Laboratory Experiment on Strategic Bargaining.’ <i>Public Management Review</i>. <a href="https://doi.org/10.1080/14719037.2021.2013072">https://doi.org/10.1080/14719037.2021.2013072</a> [<a href="https://ksweissmueller.github.io/files/Weißmüller_et_al_2021_Bargaining_PMR_preprint.pdf">Preprint</a>]
 
-<br><br>    
+<br>  
 
 <a href="https://doi.org/10.1007/s11162-021-09669-1" title="Weißmüller, K.S. & De Waele, L. (2021). ‘Would you Bribe your Lecturer? A Quasi-experimental Study on Burnout and Bribery in Higher Education.’ Research in Higher Education."></a>
 <img src="https://ksweissmueller.github.io/files/RiHE1.jpg" alt="Would you Bribe your Lecturer?" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> <b>Weißmüller, K.S.</b> & De Waele, L. <b>(2021)</b>. ‘Would you Bribe your Lecturer? A Quasi-experimental Study on Burnout and Bribery in Higher Education.’ <i>Research in Higher Education</i>. https://doi.org/10.1007/s11162-021-09669-1 [<a href="https://doi.org/10.1007/s11162-021-09669-1">Open Access</a>]
@@ -39,11 +39,11 @@ author_profile: true
 <a href="https://www.tandfonline.com/doi/abs/10.1080/14719037.2020.1862287?journalCode=rpxm20" title="Weißmüller, K.S. (2021). ‘Publicness and Micro-Level Risk Behaviour: Experimental Evidence on Stereotypical Discounting Behaviour.’ Public Management Review."></a>
 <img src="https://ksweissmueller.github.io/files/PMR1.jpg" alt="Publicness and Micro-Level Risk Behaviour" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> <b>Weißmüller, K.S. (2022)</b>. ‘Publicness and Micro-Level Risk Behaviour: Experimental Evidence on Stereotypical Discounting Behaviour.’ <i>Public Management Review</i>, 24(4): 601-630 <a href="https://doi.org/10.1080/14719037.2020.1862287">https://doi.org/10.1080/14719037.2020.1862287</a>. [<a href="https://ksweissmueller.github.io/files/Weißmüller_2020_Discounting_PMR_preprint.pdf">Preprint</a>]
 
-  <br><br>
+  <br>
 
 <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655964/full" title="De Waele, L., Weißmüller, K.S., & van Witteloostuijn, A. (2021). ‘Bribery and the role of public service motivation and social value orientation. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ Frontiers in Psychology - Organizational Psychology."><img src="https://ksweissmueller.github.io/files/frontiers.jpg" alt="Bribery, PSM, and SVO" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /></a> De Waele, L., <b>Weißmüller, K.S.</b>, & van Witteloostuijn, A. <b>(2021)</b>. ‘Bribery and the role of public service motivation and social value orientation. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ <i>Frontiers in Psychology - Organizational Psychology.</i> <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655964/full">https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655964/full</a> [Open Access]
 
-<br><br>
+<br>
  
 <a href="https://journals.sagepub.com/doi/full/10.1177/0734371X20973441" title="Weißmüller, K.S., De Waele, L., & van Witteloostuijn, A. (2020). ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ Review of Public Personnel Administration."></a>
 <img src="https://ksweissmueller.github.io/files/RoPPA1.png" alt="Public Service Motivation and Prosocial Rule-Breaking" width="84" height="120" align="left"  style="float:left; margin-right: 30px;" /> <b>Weißmüller, K.S.</b>, De Waele, L., & van Witteloostuijn, A. <b>(2022)</b>. ‘Public Service Motivation and Prosocial Rule-Breaking – An international vignettes study in Germany, Belgium, and the Netherlands.’ <i>Review of Public Personnel Administration</i>, 42(2): 258-286. <a href="https://journals.sagepub.com/doi/full/10.1177/0734371X20973441">https://doi.org/10.1177/0734371X20973441</a>. [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_2020_RoPPA_PSRB_preprint.pdf">Preprint</a>]
