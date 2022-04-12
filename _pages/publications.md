@@ -17,6 +17,10 @@ author_profile: true
 
 
 <h1>Peer-Reviewed Journal Articles</h1> <a name="papers">
+ 
+<a href="https://doi.org/10.3389/fpsyg.2022.779028" title="Maasland, C., & Weißmüller, K.S. (2022). ‘Bribery and the role of public service motivation and social value orientation. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ Frontiers in Psychology - Organizational Psychology."><img src="https://ksweissmueller.github.io/files/frontiers.jpg" alt="Bribery, PSM, and SVO" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /></a> Maasland, C., & <b>Weißmüller, K.S.</b> <b>(2022)</b>. ‘Blame the Machine? Insights from an Experiment on Algorithm Aversion and Blame Avoidance in Computer-aided Human Resource Management.’ <i>Frontiers in Psychology - Organizational Behavior.</i> <a href="https://doi.org/10.3389/fpsyg.2022.779028">https://doi.org/10.3389/fpsyg.2022.779028</a> [Open Access]
+  
+  <br>
   
 <img src="https://ksweissmueller.github.io/files/RoPPA2.png" alt="Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> Ritz, A., <b>Weißmüller, K.S.</b>, & Meynhardt, T. <b>(accepted)</b>. Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations.' <i>Review of Public Personnel Administration</i>, XX (X).
 
@@ -41,7 +45,7 @@ author_profile: true
 
 <br>
 
-<a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655964/full" title="De Waele, L., Weißmüller, K.S., & van Witteloostuijn, A. (2021). ‘Bribery and the role of public service motivation and social value orientation. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ Frontiers in Psychology - Organizational Psychology."><img src="https://ksweissmueller.github.io/files/frontiers.jpg" alt="Bribery, PSM, and SVO" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /></a> De Waele, L., <b>Weißmüller, K.S.</b>, & van Witteloostuijn, A. <b>(2021)</b>. ‘Bribery and the role of public service motivation and social value orientation. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ <i>Frontiers in Psychology - Organizational Psychology.</i> <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655964/full">https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655964/full</a> [Open Access]
+<a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655964/full" title="De Waele, L., Weißmüller, K.S., & van Witteloostuijn, A. (2021). ‘Bribery and the role of public service motivation and social value orientation. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ Frontiers in Psychology - Organizational Behavior."><img src="https://ksweissmueller.github.io/files/frontiers.jpg" alt="Bribery, PSM, and SVO" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /></a> De Waele, L., <b>Weißmüller, K.S.</b>, & van Witteloostuijn, A. <b>(2021)</b>. ‘Bribery and the role of public service motivation and social value orientation. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ <i>Frontiers in Psychology - Organizational Behavior.</i> <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655964/full">https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655964/full</a> [Open Access]
 
 <br>
  
