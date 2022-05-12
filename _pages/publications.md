@@ -22,7 +22,7 @@ author_profile: true
   
   <br>
   
-<img src="https://ksweissmueller.github.io/files/RoPPA2.png" alt="Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> Ritz, A., <b>Weißmüller, K.S.</b>, & Meynhardt, T. <b>(accepted)</b>. Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations.' <i>Review of Public Personnel Administration</i>, XX (X).
+<img src="https://ksweissmueller.github.io/files/RoPPA2.png" alt="Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> Ritz, A., <b>Weißmüller, K.S.</b>, & Meynhardt, T. <b>(accepted)</b>. Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations.' <i>Review of Public Personnel Administration</i>, <a href="https://doi.org/10.1177/0734371X221098153">https://doi.org/10.1177/0734371X221098153</a>.
 
   <br>
 
