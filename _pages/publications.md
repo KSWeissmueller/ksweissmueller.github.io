@@ -18,20 +18,20 @@ author_profile: true
 
 <h1>Peer-Reviewed Journal Articles</h1> <a name="papers">
  
-<a href="https://doi.org/10.3389/fpsyg.2022.779028" title="Maasland, C., & Weißmüller, K.S. (2022). ‘Bribery and the role of public service motivation and social value orientation. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ Frontiers in Psychology - Organizational Psychology."><img src="https://ksweissmueller.github.io/files/frontiers.jpg" alt="Bribery, PSM, and SVO" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /></a> Maasland, C., & <b>Weißmüller, K.S.</b> <b>(2022)</b>. ‘Blame the Machine? Insights from an Experiment on Algorithm Aversion and Blame Avoidance in Computer-aided Human Resource Management.’ <i>Frontiers in Psychology - Organizational Psychology.</i> <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2022.779028/abstract">https://www.frontiersin.org/articles/10.3389/fpsyg.2022.779028/abstract</a> [Open Access]
-  
-  <br>
-  
-<img src="https://ksweissmueller.github.io/files/RoPPA2.png" alt="Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> Ritz, A., <b>Weißmüller, K.S.</b>, & Meynhardt, T. <b>(accepted)</b>. Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations.' <i>Review of Public Personnel Administration</i>, <a href="https://doi.org/10.1177/0734371X221098153">https://doi.org/10.1177/0734371X221098153</a>.
-
-  <br>
-
   <a href="https://ksweissmueller.github.io/files/Meyerhofer_et_al_Soziokratie_zfo_Preprint.pdf" title="Meyerhofer, Ursula, Ritz, Adrian, Weißmüller, K.S. (accepted). ‘Wenn Mitarbeitende Mitarbeitende entlassen: Personalabbau im Konsent.’ zfo Zeitschrift Führung + Organisation."></a>
 <img src="https://ksweissmueller.github.io/files/zfo.jpg" alt="Wenn Mitarbeitende Mitarbeitende entlassen" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> Meyerhofer, U., Ritz, A., <b>Weißmüller, K.S.</b> <b>(accepted)</b>. ‘Wenn Mitarbeitende Mitarbeitende entlassen: Personalabbau im Konsent.’ <i>zfo Zeitschrift Führung + Organisation</i>, XX (X). [<a href="https://ksweissmueller.github.io/files/Meyerhofer_et_al_Soziokratie_zfo_Preprint.pdf">Preprint</a>]
 
+  <br>
+ 
+ <img src="https://ksweissmueller.github.io/files/RoPPA2.png" alt="Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> Ritz, A., <b>Weißmüller, K.S.</b>, & Meynhardt, T. <b>(2022)</b>. Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations.' <i>Review of Public Personnel Administration</i>, <a href="https://doi.org/10.1177/0734371X221098153">https://doi.org/10.1177/0734371X221098153</a> [<a href="https://github.com/KSWeissmueller/ksweissmueller.github.io/blob/64a104954867f9aaa4033ecc00b4b460d80d4eba/files/Ritz_Wei%C3%9Fm%C3%BCller_Meynhardt_2022_RoPPA.pdf">Preprint</a>].
+ 
   <br>  
+ 
+ <a href="https://doi.org/10.3389/fpsyg.2022.779028" title="Maasland, C., & Weißmüller, K.S. (2022). ‘Bribery and the role of public service motivation and social value orientation. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ Frontiers in Psychology - Organizational Psychology."><img src="https://ksweissmueller.github.io/files/frontiers.jpg" alt="Bribery, PSM, and SVO" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /></a> Maasland, C., & <b>Weißmüller, K.S.</b> <b>(2022)</b>. ‘Blame the Machine? Insights from an Experiment on Algorithm Aversion and Blame Avoidance in Computer-aided Human Resource Management.’ <i>Frontiers in Psychology - Organizational Psychology.</i> <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2022.779028/abstract">https://www.frontiersin.org/articles/10.3389/fpsyg.2022.779028/abstract</a> [Open Access]
+  
+  <br>
 
-  <a href="https://doi.org/10.1080/14719037.2021.2013072" title="Weißmüller, K.S., Bouwman, R., & Vogel, R. (accepted). ‘Satisficing or Maximizing in Public-Private Partnerships? A Laboratory Experiment on Strategic Bargaining.’ Public Management Review."><img src="https://ksweissmueller.github.io/files/PMR1.jpg" alt="Satisficing or Maximizing in Public-Private Partnerships?" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /></a>  <b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. <b>(2021)</b>. ‘Satisficing or Maximizing in Public-Private Partnerships? A Laboratory Experiment on Strategic Bargaining.’ <i>Public Management Review</i>. <a href="https://doi.org/10.1080/14719037.2021.2013072">https://doi.org/10.1080/14719037.2021.2013072</a> [<a href="https://ksweissmueller.github.io/files/Weißmüller_et_al_2021_Bargaining_PMR_preprint.pdf">Preprint</a>]
+  <a href="https://doi.org/10.1080/14719037.2021.2013072" title="Weißmüller, K.S., Bouwman, R., & Vogel, R. (2021). ‘Satisficing or Maximizing in Public-Private Partnerships? A Laboratory Experiment on Strategic Bargaining.’ Public Management Review."><img src="https://ksweissmueller.github.io/files/PMR1.jpg" alt="Satisficing or Maximizing in Public-Private Partnerships?" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /></a>  <b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. <b>(2021)</b>. ‘Satisficing or Maximizing in Public-Private Partnerships? A Laboratory Experiment on Strategic Bargaining.’ <i>Public Management Review</i>. <a href="https://doi.org/10.1080/14719037.2021.2013072">https://doi.org/10.1080/14719037.2021.2013072</a> [<a href="https://ksweissmueller.github.io/files/Weißmüller_et_al_2021_Bargaining_PMR_preprint.pdf">Preprint</a>]
 
 <br>  
 
