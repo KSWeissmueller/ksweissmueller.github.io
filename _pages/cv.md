@@ -45,12 +45,16 @@ Memberships
   
 Ad-hoc Reviewer for
 ======
-* *Journal of Behavioral Public Administration* (JBPA)
+* *International Public Management Journal* (IPMJ)
 * *Journal of Public Administration Research and Theory* (JPART)
+* *Journal of Behavioral Public Administration* (JBPA)
+* *Journal of International Business Studies* (JIBS)
 * *Public Administration* (PA)
 * *Public Administration Review* (PAR)
 * *Public Management Review* (PMR)
-* *Review of Public Personnel Management* (RoPPA)
+* *Public Performance & Management Review* (PPMR)
+* *Research in Higher Education* (RiHE)
+* *Review of Public Personnel Administration* (RoPPA)
 
 
 Languages
