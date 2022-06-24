@@ -23,7 +23,7 @@ author_profile: true
 <br>
  
   <a href="https://ksweissmueller.github.io/files/Meyerhofer_et_al_Soziokratie_zfo_Preprint.pdf" title="Meyerhofer, Ursula, Ritz, Adrian, Weißmüller, K.S. (accepted). ‘Wenn Mitarbeitende Mitarbeitende entlassen: Personalabbau im Konsent.’ zfo Zeitschrift Führung + Organisation."></a>
-<img src="https://ksweissmueller.github.io/files/zfo.jpg" alt="Wenn Mitarbeitende Mitarbeitende entlassen" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> Meyerhofer, U., Ritz, A., <b>Weißmüller, K.S.</b> <b>(accepted)</b>. ‘Wenn Mitarbeitende Mitarbeitende entlassen: Personalabbau im Konsent.’ <i>zfo Zeitschrift Führung + Organisation</i>. [<a href="https://ksweissmueller.github.io/files/Meyerhofer_et_al_Soziokratie_zfo_Preprint.pdf">Preprint</a>]
+<img src="https://ksweissmueller.github.io/files/zfo.jpg" alt="Wenn Mitarbeitende Mitarbeitende entlassen" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> Meyerhofer, U., Ritz, A., <b>Weißmüller, K.S.</b> <b>(accepted)</b>. ‘Wenn Mitarbeitende Mitarbeitende entlassen: Personalabbau im Konsent.’ <i>zfo Zeitschrift Führung + Organisation</i>, 5/2022. [<a href="https://ksweissmueller.github.io/files/Meyerhofer_et_al_Soziokratie_zfo_Preprint.pdf">Preprint</a>]
 
   <br>
  
@@ -77,7 +77,8 @@ author_profile: true
 <br>
   
 <a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2" title="De Waele, L. & Weißmüller, K.S. (2019). ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management) 24 (2): 43-56."></a> <img src="https://ksweissmueller.github.io/files/Vtijd_Cover.png" alt="Over de bureaucratische paradox" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> De Waele, L. & <b>Weißmüller, K.S. (2019)</b>. ‘Over de bureaucratische paradox en de effecten van Public Service Motivation op corruptie.’ <i>Vlaams Tijdschrift voor Overheidsmanagement (Flemish Journal of Public Management)</i> 24 (2): 43-56, <a href="http://vtom.be/table_of_content.aspx?sy=2019&pn=2">http://vtom.be/table_of_content.aspx?sy=2019&pn=2</a>. [<a href="https://ksweissmueller.github.io/files/DeWaele_Weissmüller_2019_VTOM.pdf">Preprint</a>]
-<br>
+
+ <br>
   
 
 <h1>Other peer-reviewed Publications</h1> <a name="other"></a>
