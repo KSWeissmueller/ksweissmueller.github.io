@@ -40,7 +40,7 @@ author_profile: true
 <br>  
 
 <a href="https://doi.org/10.1007/s11162-021-09669-1" title="Weißmüller, K.S. & De Waele, L. (2021). ‘Would you Bribe your Lecturer? A Quasi-experimental Study on Burnout and Bribery in Higher Education.’ Research in Higher Education."></a>
-<img src="https://ksweissmueller.github.io/files/RiHE1.jpg" alt="Would you Bribe your Lecturer?" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> <b>Weißmüller, K.S.</b> & De Waele, L. <b>(2021)</b>. ‘Would you Bribe your Lecturer? A Quasi-experimental Study on Burnout and Bribery in Higher Education.’ <i>Research in Higher Education</i>. https://doi.org/10.1007/s11162-021-09669-1 [<a href="https://doi.org/10.1007/s11162-021-09669-1">Open Access</a>]
+<img src="https://ksweissmueller.github.io/files/RiHE1.jpg" alt="Would you Bribe your Lecturer?" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> <b>Weißmüller, K.S.</b> & De Waele, L. <b>(2021)</b>. ‘Would you Bribe your Lecturer? A Quasi-experimental Study on Burnout and Bribery in Higher Education.’ <i>Research in Higher Education</i>. <a ref="https://doi.org/10.1007/s11162-021-09669-1">https://doi.org/10.1007/s11162-021-09669-1</a> [<a href="https://doi.org/10.1007/s11162-021-09669-1">Open Access</a>]
 
 <br>  
 
