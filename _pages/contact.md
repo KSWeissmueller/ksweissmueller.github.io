@@ -14,18 +14,18 @@ redirect_from:
 Contact
 --------
 Dr. Kristina S. Weißmüller <br>
-Universität Bern <br>
-KPM Center for Public Management <br>
-Schanzeneckstrasse 1 <br>
 
-CH-3012 Bern, Switzerland
+Vrije Universiteit Amsterdam <br>
+Faculty of Social Sciences <br>
+Dept. Political Science and Public Administration <br>
 
-Office: +41 (0)31 684 4768
+De Boelelaan 1105 <br>
+1081 HV Amsterdam, the Netherlands <br>
 
+Email: <a href="mailto:k.s.weissmueller@vu.nl">k.s.weissmueller@vu.nl</a>
+Email2: <a href="mailto:kristina.weissmueller@unibe.ch">kristina.weissmueller@unibe.ch</a>
 
-Email: <a href="mailto:kristina.weissmueller@kpm.unibe.ch">kristina.weissmueller@kpm.unibe.ch</a>
-<br>
-Website: <a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/dr_weissmueller_kristina_s/index_eng.html">www.kpm.unibe.ch/contact/personen/mitarbeitende/dr_weissmueller_kristina_s/index_eng.html</a>
+Website: <a href="https://research.vu.nl/en/persons/kristina-s-wei%C3%9Fm%C3%BCller">VU Researcher Profile</a>
 
 
 <br><br>
@@ -34,4 +34,4 @@ Website: <a href="http://www.kpm.unibe.ch/contact/personen/mitarbeitende/dr_weis
 
 Find <a href="https://www.kpm.unibe.ch/">KPM Center for Public Management</a> here:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1361.7988455640746!2d7.4348998006477505!3d46.94994559815681!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478e39bc3c33395f%3A0xb8c92e62f4ac7d60!2sUniS!5e0!3m2!1sde!2sch!4v1604447179156!5m2!1sde!2sch" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<iframe src="ttps://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9752.08583655721!2d4.8657199!3d52.3337568!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2df2d7a997eccd84!2sUniversidade%20Livre%20de%20Amsterd%C3%A3!5e0!3m2!1spt-PT!2spt!4v1662548844079!5m2!1spt-PT!2spt" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
