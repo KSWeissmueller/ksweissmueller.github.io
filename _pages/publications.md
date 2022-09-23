@@ -8,9 +8,10 @@ author_profile: true
 
 
 1. [Peer-Reviewed Journal Articles](#papers)
-2. [Other Publications](#other)
-3. [Scientific Reports](#reports)
-4. [Conference Papers & Presentations](#conferences)
+2. [Selected Working Papers](#workingpapers)
+3. [Other Peer-Reviewed Publications](#other)
+4. [Scientific Reports](#reports)
+5. [Conference Papers & Presentations](#conferences)
 
 
 
@@ -80,7 +81,22 @@ author_profile: true
 
  <br>
   
+ <h1>Selected working papers</h1> <a name="workingpapers"></a>
+ 
+ <b>Ritz, A., & Weißmüller, K.S. (forthcoming)</b>. ‘Civil Service in transition – The ongoing transformation of administrative culture.' <i>The Handbook of Civil Service in Europe</i>, edited by Sommermann, K., Fraenkel-Haeberle, C., & Krzywon, A., [<a href="https://ksweissmueller.github.io/files/Ritz_Weissmueller_Chapter_Civil Service in Europe.pdf">Preprint</a>].
 
+ <br>
+ 
+<b>Weißmüller, K.S.</b>, De Waele, L., van Witteloostuijn, A., Ritz, A., Christensen, R., Su, Tsai-Tsu, & Walker, R. <b>(2022)</b>. ‘Corruptibility and Moral Disengagement: Behavioral Evidence on Asymmetries across Public, Private, and Hybrid Contexts.’ Working paper, [<a href="https://ksweissmueller.github.io/files/DeWaele_Weissmüller_2019_VTOM.pdf">Preprint</a>].
+ 
+ <br> 
+ 
+<b>Weißmüller, K.S.</b>, & Zuber, A. <b>(2022)</b> ‘Understanding the Micro-Foundations of Administrative Corruption in the Public Sector: Findings from a Systematic Literature Review.’ Working Paper, [<a href="https://ksweissmueller.github.io/files/DeWaele_Weissmüller_2019_VTOM.pdf">Preprint</a>].
+ 
+ 
+ <br><br>
+ 
+ 
 <h1>Other peer-reviewed Publications</h1> <a name="other"></a>
     
 <img src="https://raw.githubusercontent.com/KSWeissmueller/ksweissmueller.github.io/master/files/9783658310677.jpg" alt="Netzwerk-Fallstudie" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /><b>Weißmüller, K.S. (2021)</b>. ‘Thema: Organisationale Identifikation (Fallstudie 29)’ (p. 495-498), <a href="https://doi.org/10.1007/978-3-658-31068-4_58">https://doi.org/10.1007/978-3-658-31068-4_58</a>. In Adrian Ritz, Rudolf Blankart, Claus Jacobs, Andreas Lienhard, Doina Radulescu, & Fritz Sager (Eds.), Praxisfälle zu Public Management und Verwaltungswissenschaft – Ein multidisziplinärer Ansatz mit konzeptionellen Bausteinen, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31067-7</a>, Wiesbaden: Springer-Gabler.
@@ -122,7 +138,7 @@ author_profile: true
 
 <li value="31">De Waele, L., <b>Weißmüller, K.S.</b>, van Witteloostuijn, A., et al. <b>(2021)</b>. ‘Regimes of Rule Breaking – A 14-country experi-mental study on the relation of politico-administrative traditions with client discrimination in bureaucracies’, accepted for presentation at the <i>Social Equity and Public Administration: The Behavioral Perspective at the School of Public Affairs, American University, 30.04.-01.05.2021, Washington, D.C., & online</i>.</li>
   
-<li value="30"><b>Weißmüller, K.S.</b>, De Waele, L., van Witteloostuijn, A., Ritz, A., Christensen, R., Su, Tsai-Tsu, & Walker, R. <b>(2021)</b>. ‘Cor-ruptibility and Moral Disengagement: Behavioral Evidence on Asymmetries across Public, Private, and Hybrid Contexts’, <i>23rd International Research Society on Public Management (IRSPM) Conference, P3 Behavioral and Experimental Public Management, 20.04.-23.04.2021, online.</i></li>
+<li value="30"><b>Weißmüller, K.S.</b>, De Waele, L., van Witteloostuijn, A., Ritz, A., Christensen, R., Su, Tsai-Tsu, & Walker, R. <b>(2021)</b>. ‘Corruptibility and Moral Disengagement: Behavioral Evidence on Asymmetries across Public, Private, and Hybrid Contexts’, <i>23rd International Research Society on Public Management (IRSPM) Conference, P3 Behavioral and Experimental Public Management, 20.04.-23.04.2021, online.</i></li>
   
 <li value="29">Ritz, A., <b>Weißmüller, K.S.</b>, & Meynhardt, T. <b>(2021)</b>. ‘Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations’, <i>23rd International Research Society on Public Management (IRSPM) Conference, P25 Public Service Motivation, 20.04.-23.04.2021, online.</i></li> 
   
