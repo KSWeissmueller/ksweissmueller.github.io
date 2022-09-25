@@ -87,11 +87,11 @@ author_profile: true
 
  <br>
  
-<b>Weißmüller, K.S.</b>, De Waele, L., van Witteloostuijn, A., Ritz, A., Christensen, R., Su, Tsai-Tsu, & Walker, R. <b>(2022)</b>. ‘Corruptibility and Moral Disengagement: Behavioral Evidence on Asymmetries across Public, Private, and Hybrid Contexts.’ Working paper, [<a href="https://ksweissmueller.github.io/files/DeWaele_Weissmüller_2019_VTOM.pdf">Preprint</a>].
+<b>Weißmüller, K.S.</b>, De Waele, L., van Witteloostuijn, A., Ritz, A., Christensen, R., Su, Tsai-Tsu, & Walker, R. <b>(2022)</b>. ‘Corruptibility and Moral Disengagement: Behavioral Evidence on Asymmetries across Public, Private, and Hybrid Contexts.’ <i>Working paper</i>, [<a href="https://ksweissmueller.github.io/files/DeWaele_Weissmüller_2019_VTOM.pdf">Preprint</a>].
  
  <br> 
  
-<b>Weißmüller, K.S.</b>, & Zuber, A. <b>(2022)</b> ‘Understanding the Micro-Foundations of Administrative Corruption in the Public Sector: Findings from a Systematic Literature Review.’ Working Paper, [<a href="https://doi.org/10.31219/osf.io/z9bcy">Preprint</a>].
+<b>Weißmüller, K.S.</b>, & Zuber, A. <b>(2022)</b> ‘Understanding the Micro-Foundations of Administrative Corruption in the Public Sector: Findings from a Systematic Literature Review.’ <i>Working Paper</i>, [<a href="https://doi.org/10.31219/osf.io/z9bcy">Preprint</a>].
  
  
  <br><br>
