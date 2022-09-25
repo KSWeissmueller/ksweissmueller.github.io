@@ -87,7 +87,7 @@ author_profile: true
 
  <br>
  
-<b>Weißmüller, K.S.</b>, De Waele, L., van Witteloostuijn, A., Ritz, A., Christensen, R., Su, Tsai-Tsu, & Walker, R. <b>(2022)</b>. ‘Corruptibility and Moral Disengagement: Behavioral Evidence on Asymmetries across Public, Private, and Hybrid Contexts.’ <i>Working paper</i>, [<a href="https://ksweissmueller.github.io/files/DeWaele_Weissmüller_2019_VTOM.pdf">Preprint</a>].
+<b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., Ritz, A., Christensen, R., Su, Tsai-Tsu, & Walker, R. <b>(2022)</b>. ‘Civil Servants’ Corruptibility in Sectoral Context. Evidence on the Moderating Role of Public Service Motivation from Four Jurisdictions.’ <i>Working paper</i>, [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_2022_Corruption_Sectors_PSM.pdf">Preprint</a>].
  
  <br> 
  
