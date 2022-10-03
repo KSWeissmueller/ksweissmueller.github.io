@@ -23,8 +23,8 @@ author_profile: true
 
 <br>
  
-  <a href="https://ksweissmueller.github.io/files/Meyerhofer_et_al_Soziokratie_zfo_Preprint.pdf" title="Meyerhofer, Ursula, Ritz, Adrian, Weißmüller, K.S. (accepted). ‘Wenn Mitarbeitende Mitarbeitende entlassen: Personalabbau im Konsent.’ zfo Zeitschrift Führung + Organisation."></a>
-<img src="https://ksweissmueller.github.io/files/zfo.jpg" alt="Wenn Mitarbeitende Mitarbeitende entlassen" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> Meyerhofer, U., Ritz, A., <b>Weißmüller, K.S.</b> <b>(accepted)</b>. ‘Wenn Mitarbeitende Mitarbeitende entlassen: Personalabbau im Konsent.’ <i>zfo Zeitschrift Führung + Organisation</i>, 5/2022. [<a href="https://ksweissmueller.github.io/files/Meyerhofer_et_al_Soziokratie_zfo_Preprint.pdf">Preprint</a>]
+  <a href="https://ksweissmueller.github.io/files/Meyerhofer_et_al_Soziokratie_zfo_Preprint.pdf" title="Meyerhofer, Ursula, Ritz, Adrian, Weißmüller, K.S. (2022). ‘Wenn Mitarbeitende Mitarbeitende entlassen: Personalabbau im Konsent.’ zfo Zeitschrift Führung + Organisation."></a>
+<img src="https://ksweissmueller.github.io/files/zfo.jpg" alt="Wenn Mitarbeitende Mitarbeitende entlassen" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> Meyerhofer, U., Ritz, A., <b>Weißmüller, K.S.</b> <b>(2022)</b>. ‘Wenn Mitarbeitende Mitarbeitende entlassen: Personalabbau im Konsent.’ <i>zfo Zeitschrift Führung + Organisation</i>, 5/2022, https://www.zfo.de/suche-archiv/Document/details/3846_12. [<a href="https://ksweissmueller.github.io/files/Meyerhofer_et_al_Soziokratie_zfo_Preprint.pdf">Preprint</a>]
 
   <br>
  
