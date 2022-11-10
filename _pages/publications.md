@@ -83,11 +83,11 @@ author_profile: true
   
  <h1>Selected working papers</h1> <a name="workingpapers"></a>
  
- <b>Ritz, A., & Weißmüller, K.S. (forthcoming)</b>. ‘Civil Service in transition – The ongoing transformation of administrative culture.' <i>The Handbook of Civil Service in Europe</i>, edited by Sommermann, K., Fraenkel-Haeberle, C., & Krzywon, A., [<a href="https://ksweissmueller.github.io/files/Ritz_Weissmueller_civil_service_transition.pdf">Preprint</a>].
+ <b>Ritz, A., & Weißmüller, K.S. (forthcoming)</b>. ‘Civil Service in transition – The ongoing transformation of administrative culture.' <i>The Handbook of Civil Service in Europe</i>, edited by Sommermann, K., Fraenkel-Haeberle, C., & Krzywon, A.
 
  <br>
  
-<b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., Ritz, A., Christensen, R., Su, Tsai-Tsu, & Walker, R. <b>(2022)</b>. ‘Civil Servants’ Corruptibility in Sectoral Context. Evidence on the Moderating Role of Public Service Motivation from Four Jurisdictions.’ <i>Working paper</i>, [<a href="https://ksweissmueller.github.io/files/Weissmueller_et_al_2022_Corruption_Sectors_PSM.pdf">Preprint</a>].
+<b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., Ritz, A., Christensen, R., Su, Tsai-Tsu, & Walker, R. <b>(2022)</b>. ‘Civil Servants’ Corruptibility in Sectoral Context. Evidence on the Moderating Role of Public Service Motivation from Four Jurisdictions.’ 
  
  <br> 
  
