@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi!
 
-I am an Assistant Professor for Public Administration at the <a href="https://research.vu.nl/en/persons/kristina-s-wei%C3%9Fm%C3%BCller">Vrije Universiteit Amsterdam, the Netherlands</a>, and Lecturer at the University of Bern,  <a href="https://www.kpm.unibe.ch/index_eng.html" >KPM Center for Public Management</a>. Co-initiator and principal investigator of the multi-national <a href="http://www.corpus-project.org/" title="http://www.corpus-project.org/" style="text-decoration:underline;" target="_blank" >CorPuS</a> research project. I specialized in quantitative-experimental and qualitative mixed-methods research. 
+I am an Assistant Professor for Public Administration at the <a href="https://research.vu.nl/en/persons/kristina-s-wei%C3%9Fm%C3%BCller">Vrije Universiteit Amsterdam, the Netherlands</a>, and Habilitandin at the University of Bern,  <a href="https://www.kpm.unibe.ch/index_eng.html" >KPM Center for Public Management</a>. Co-initiator and principal investigator of the multi-national <a href="http://www.corpus-project.org/" title="http://www.corpus-project.org/" style="text-decoration:underline;" target="_blank" >CorPuS</a> research project. I specialized in quantitative-experimental and qualitative mixed-methods research. 
 
 I study (1) public sector corruption – bribery and rule breaking – from a behavioral perspective, (2) the role of risk, uncertainty, and publicness in strategic decision making, for instance, in public-private partnerships, (3) the idiosyncrasies of public personnel motivation and leadership, (4) the role of complexity and cognitive biases in human decision making, e.g. in higher education, policy making, strategic negotiation, and consumption.
 
