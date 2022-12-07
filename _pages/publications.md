@@ -83,7 +83,7 @@ author_profile: true
   
  <h1>Selected working papers</h1> <a name="workingpapers"></a>
  
- <b>Ritz, A., & Weißmüller, K.S. (forthcoming)</b>. ‘Civil Service in transition – The ongoing transformation of administrative culture.' <i>The Handbook of Civil Service in Europe</i>, edited by Sommermann, K., Fraenkel-Haeberle, C., & Krzywon, A.
+ <b>Ritz, A., & Weißmüller, K.S. (forthcoming)</b>. ‘Civil Service in transition – The ongoing transformation of administrative culture.' <i>The Civil Service in Europe: A Research Companion</i>, edited by Sommermann, K., Fraenkel-Haeberle, C., & Krzywon, A., Routledge.
 
  <br>
  
