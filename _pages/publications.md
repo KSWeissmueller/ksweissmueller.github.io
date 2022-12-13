@@ -22,7 +22,12 @@ author_profile: true
   
  Kisliuk, S. & <b>Weißmüller, K.S.</b> (2022). ‘Social capital as a resource for prosocial donation behavior. Quantitative evidence on the moderating effect of strategic networking.’ <i>SSRN Preprint</i>, [<a href="https://ssrn.com/abstract=4291518">Preprint</a>]. 
  
- 
+  <br>
+  
+ <b>Ritz, A., & Weißmüller, K.S. (forthcoming)</b>. ‘Civil Service in transition – The ongoing transformation of administrative culture.' <i>The Civil Service in Europe: A Research Companion</i>, edited by Sommermann, K., Fraenkel-Haeberle, C., & Krzywon, A., Routledge.
+  
+ <br>
+  
  <a href="https://www.tandfonline.com/doi/abs/10.1080/14719037.2022.2084770?journalCode=rpxm20" title="Seidemann, I., & Weißmüller, K.S. (2022). ‘Conceptual Foundations of Workforce Homogeneity in the Public Sector. Insights from a Systematic Review on Causes, Consequences, and Blind Spots.’ Public Management Review."></a> <img src="https://ksweissmueller.github.io/files/PMR1.jpg" alt="Workforce Homogeneity" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> <b>Seidemann, I., & Weißmüller, K.S. (2022)</b>. ‘Conceptual Foundations of Workforce Homogeneity in the Public Sector. Insights from a Systematic Review on Causes, Consequences, and Blind Spots.’ <i>Public Management Review</i>. <a href="https://doi.org/10.1080/14719037.2022.2084770">https://doi.org/10.1080/14719037.2022.2084770</a> [<a href="https://ksweissmueller.github.io/files/Seidemann_Weißmüller_2022_PMR_Homogeneity.pdf">Preprint</a>]
 
 <br>
@@ -87,7 +92,6 @@ author_profile: true
   
  <h1>Selected working papers</h1> <a name="workingpapers"></a>
  
- <b>Ritz, A., & Weißmüller, K.S. (forthcoming)</b>. ‘Civil Service in transition – The ongoing transformation of administrative culture.' <i>The Civil Service in Europe: A Research Companion</i>, edited by Sommermann, K., Fraenkel-Haeberle, C., & Krzywon, A., Routledge.
  <br>
  
 <b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., Ritz, A., Christensen, R., Su, Tsai-Tsu, & Walker, R. <b>(2022)</b>. ‘Civil Servants’ Corruptibility in Sectoral Context. Evidence on the Moderating Role of Public Service Motivation from Four Jurisdictions.’ 
@@ -96,8 +100,7 @@ author_profile: true
 <b>Weißmüller, K.S.</b>, & Zuber, A. <b>(2022)</b> ‘Understanding the Micro-Foundations of Administrative Corruption in the Public Sector: Findings from a Systematic Literature Review.’ <i>Working Paper</i>, [<a href="https://doi.org/10.31219/osf.io/z9bcy">Preprint</a>].
  
  <br><br>
- 
- 
+  
 <h1>Other peer-reviewed Publications</h1> <a name="other"></a>
     
 <img src="https://raw.githubusercontent.com/KSWeissmueller/ksweissmueller.github.io/master/files/9783658310677.jpg" alt="Netzwerk-Fallstudie" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /><b>Weißmüller, K.S. (2021)</b>. ‘Thema: Organisationale Identifikation (Fallstudie 29)’ (p. 495-498), <a href="https://doi.org/10.1007/978-3-658-31068-4_58">https://doi.org/10.1007/978-3-658-31068-4_58</a>. In Adrian Ritz, Rudolf Blankart, Claus Jacobs, Andreas Lienhard, Doina Radulescu, & Fritz Sager (Eds.), Praxisfälle zu Public Management und Verwaltungswissenschaft – Ein multidisziplinärer Ansatz mit konzeptionellen Bausteinen, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31067-7</a>, Wiesbaden: Springer-Gabler.
