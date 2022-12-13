@@ -19,14 +19,14 @@ author_profile: true
 
 <h1>Peer-Reviewed Journal Articles</h1> <a name="papers">
 
-  
- Kisliuk, S. & <b>Weißmüller, K.S.</b> (2022). ‘Social capital as a resource for prosocial donation behavior. Quantitative evidence on the moderating effect of strategic networking.’ <i>SSRN Preprint</i>, [<a href="https://ssrn.com/abstract=4291518">Preprint</a>]. 
  
-  <br>
-  
  <b>Ritz, A., & Weißmüller, K.S. (forthcoming)</b>. ‘Civil Service in transition – The ongoing transformation of administrative culture.' <i>The Civil Service in Europe: A Research Companion</i>, edited by Sommermann, K., Fraenkel-Haeberle, C., & Krzywon, A., Routledge.
   
  <br>
+  
+   Kisliuk, S. & <b>Weißmüller, K.S. (2022)</b>. ‘Social capital as a resource for prosocial donation behavior. Quantitative evidence on the moderating effect of strategic networking.’ <i>SSRN Preprint</i>, [<a href="https://ssrn.com/abstract=4291518">Preprint</a>]. 
+ 
+  <br>
   
  <a href="https://www.tandfonline.com/doi/abs/10.1080/14719037.2022.2084770?journalCode=rpxm20" title="Seidemann, I., & Weißmüller, K.S. (2022). ‘Conceptual Foundations of Workforce Homogeneity in the Public Sector. Insights from a Systematic Review on Causes, Consequences, and Blind Spots.’ Public Management Review."></a> <img src="https://ksweissmueller.github.io/files/PMR1.jpg" alt="Workforce Homogeneity" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> <b>Seidemann, I., & Weißmüller, K.S. (2022)</b>. ‘Conceptual Foundations of Workforce Homogeneity in the Public Sector. Insights from a Systematic Review on Causes, Consequences, and Blind Spots.’ <i>Public Management Review</i>. <a href="https://doi.org/10.1080/14719037.2022.2084770">https://doi.org/10.1080/14719037.2022.2084770</a> [<a href="https://ksweissmueller.github.io/files/Seidemann_Weißmüller_2022_PMR_Homogeneity.pdf">Preprint</a>]
 
