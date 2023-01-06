@@ -37,8 +37,8 @@ author_profile: true
 
   <br>
  
- <img src="https://ksweissmueller.github.io/files/RoPPA2.png" alt="Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> Ritz, A., <b>Weißmüller, K.S.</b>, & Meynhardt, T. <b>(2022)</b>. Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations.' <i>Review of Public Personnel Administration</i>, <a href="https://doi.org/10.1177/0734371X221098153">https://doi.org/10.1177/0734371X221098153</a> [<a href="https://raw.githubusercontent.com/KSWeissmueller/ksweissmueller.github.io/master/files/Ritz_Wei%C3%9Fm%C3%BCller_Meynhardt_2022_RoPPA.pdf">Preprint</a>]
- 
+ <img src="https://ksweissmueller.github.io/files/RoPPA2.png" alt="Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> Ritz, A., <b>Weißmüller, K.S.</b>, & Meynhardt, T. <b>(2022)</b>. Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations.' <i>Review of Public Personnel Administration</i>, <a href="https://doi.org/10.1177/0734371X221098153">https://doi.org/10.1177/0734371X221098153</a> [<a href="https://raw.githubusercontent.com/KSWeissmueller/ksweissmueller.github.io/master/files/Ritz_Weissmueller_Meynhardt_2022_RoPPA.pdf">Preprint</a>]
+  
   <br>  
  
  <a href="https://doi.org/10.3389/fpsyg.2022.779028" title="Maasland, C., & Weißmüller, K.S. (2022). ‘Bribery and the role of public service motivation and social value orientation. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ Frontiers in Psychology - Organizational Psychology."><img src="https://ksweissmueller.github.io/files/frontiers.jpg" alt="Bribery, PSM, and SVO" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /></a> Maasland, C., & <b>Weißmüller, K.S.</b> <b>(2022)</b>. ‘Blame the Machine? Insights from an Experiment on Algorithm Aversion and Blame Avoidance in Computer-aided Human Resource Management.’ <i>Frontiers in Psychology - Organizational Psychology.</i> <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2022.779028/abstract">https://www.frontiersin.org/articles/10.3389/fpsyg.2022.779028/abstract</a> [Open Access]
@@ -50,7 +50,7 @@ author_profile: true
 <br>  
 
 <a href="https://doi.org/10.1007/s11162-021-09669-1" title="Weißmüller, K.S. & De Waele, L. (2021). ‘Would you Bribe your Lecturer? A Quasi-experimental Study on Burnout and Bribery in Higher Education.’ Research in Higher Education."></a>
-<img src="https://ksweissmueller.github.io/files/RiHE1.jpg" alt="Would you Bribe your Lecturer?" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> <b>Weißmüller, K.S.</b> & De Waele, L. <b>(2021)</b>. ‘Would you Bribe your Lecturer? A Quasi-experimental Study on Burnout and Bribery in Higher Education.’ <i>Research in Higher Education</i>. <a ref="https://doi.org/10.1007/s11162-021-09669-1">https://doi.org/10.1007/s11162-021-09669-1</a> [<a href="https://doi.org/10.1007/s11162-021-09669-1">Open Access</a>]
+<img src="https://ksweissmueller.github.io/files/RiHE1.jpg" alt="Would you Bribe your Lecturer?" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> <b>Weißmüller, K.S.</b> & De Waele, L. <b>(2021)</b>. ‘Would you Bribe your Lecturer? A Quasi-experimental Study on Burnout and Bribery in Higher Education.’ <i>Research in Higher Education</i>. [<a ref="https://doi.org/10.1007/s11162-021-09669-1">https://doi.org/10.1007/s11162-021-09669-1</a>] [<a href="https://doi.org/10.1007/s11162-021-09669-1">Open Access</a>]
 
 <br>  
 
