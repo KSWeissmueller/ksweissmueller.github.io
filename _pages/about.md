@@ -34,7 +34,6 @@ De Boelelaan 1105 <br>
 1081 HV Amsterdam, the Netherlands <br>
 
 Email: <a href="mailto:k.s.weissmueller@vu.nl">k.s.weissmueller@vu.nl</a>
-Email2: <a href="mailto:kristina.weissmueller@unibe.ch">kristina.weissmueller@unibe.ch</a>
 
 
 Latest Publications 
