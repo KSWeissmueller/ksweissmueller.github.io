@@ -42,19 +42,15 @@ Google Analytics is a web analytics tool I use to help understand how visitors e
 <h3 id="dsg-general-intro"></h3>
 Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweise ich auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
 <h3 id="dsg-general-controller">Verantwortliche</h3>
-Kristina S. Weissmüller
+Kristina S. Weißmüller
 
-Universität Bern
+VU Amsterdam
 
-Kompetenzzentrum Public Management
+De Boelelaan 1105
 
-Schanzeneckstrasse 1
+1081 HV Amsterdam, the Netherlands
 
-CH-3001 Bern, Switzerland
-
-Phone: +41 (0)31 684 47 68
-
-Mail: <a href="mailto:Kristina.weissmueller@kpm.ch">Kristina.weissmueller@kpm.ch</a>
+Mail: <a href="mailto:k.s.weissmueller@vu.nl">k.s.weissmueller@vu.nl</a>
 
 <span class="tsmcontroller">Link zum Impressum: https://www.ksweissmueller./contact/</span>
 
