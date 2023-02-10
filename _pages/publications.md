@@ -97,12 +97,12 @@ author_profile: true
  
 <b>Weißmüller, K.S.</b>, & Zuber, A. <b>(2022)</b> ‘Understanding the Micro-Foundations of Administrative Corruption in the Public Sector: Findings from a Systematic Literature Review.’ <i>Working Paper</i>, [<a href="https://doi.org/10.31219/osf.io/z9bcy">Preprint</a>].
  
- <br><br>
+<br><br>
   
 <h1>Other peer-reviewed Publications</h1> <a name="other"></a>
     
 <img src="https://raw.githubusercontent.com/KSWeissmueller/ksweissmueller.github.io/master/files/9783658310677.jpg" alt="Netzwerk-Fallstudie" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /><b>Weißmüller, K.S. (2021)</b>. ‘Thema: Organisationale Identifikation (Fallstudie 29)’ (p. 495-498), <a href="https://doi.org/10.1007/978-3-658-31068-4_58">https://doi.org/10.1007/978-3-658-31068-4_58</a>. In Adrian Ritz, Rudolf Blankart, Claus Jacobs, Andreas Lienhard, Doina Radulescu, & Fritz Sager (Eds.), Praxisfälle zu Public Management und Verwaltungswissenschaft – Ein multidisziplinärer Ansatz mit konzeptionellen Bausteinen, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31067-7</a>, Wiesbaden: Springer-Gabler.
-<br><br>
+<br>
   
 <a href="https://www.springer.com/de/book/9783658310677" title="Weißmüller, K.S. (2021). ‘Krisenmodus! Motivation und Identifikation bei befristet Beschäftigten?’. In: Adrian Ritz, Rudolf Blankart, Claus  Jacobs, Andreas Lienhard, Doina  Radulescu, & Fritz Sager (Eds.), Praxisfälle zu Public Management und Verwaltungswissenschaft, ISBN: 978-3-658-31068-4, Wiesbaden: Springer-Gabler"> <img src="https://raw.githubusercontent.com/KSWeissmueller/ksweissmueller.github.io/master/files/9783658310677.jpg" alt="Motivation-Fallstudien" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /></a> <b>Weißmüller, K.S. (2021)</b>. ‘Fallstudie 29: Krisenmodus! Motivation und Identifikation bei befristet Beschäftigten?’(p. 289-298), <a href="https://doi.org/10.1007/978-3-658-31068-4_30">https://doi.org/10.1007/978-3-658-31068-4_30</a>. In Adrian Ritz, Rudolf Blankart, Claus Jacobs, Andreas Lienhard, Doina Radulescu, & Fritz Sager (Eds.), Praxisfälle zu Public Management und Verwaltungswissenschaft – Ein multidisziplinärer Ansatz mit konzeptionellen Bausteinen, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31067-7</a>, Wiesbaden: Springer-Gabler.
 <br>
