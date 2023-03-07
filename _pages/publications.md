@@ -18,7 +18,9 @@ author_profile: true
 <h1>Peer-Reviewed Journal Articles</h1> <a name="papers">
 
  
- <b>Ritz, A., & Weißmüller, K.S. (forthcoming)</b>. ‘Civil Service in transition – The ongoing transformation of administrative culture.' <i>The Civil Service in Europe: A Research Companion</i>, edited by Sommermann, K., Fraenkel-Haeberle, C., & Krzywon, A., Routledge.
+ <b>Weißmüller, K.S. (forthcoming)</b>. ‘Amplifying citizens’ voice in global governance – Why we need inclusive deliberation processes to solve 21st cen-tury challenges.’ <i>Connected World: What is your idea to build better connections?<i>, edited by Vermeulen, I., Legene, S., Malavolta, I., Burgers, G., & Akkermans, H., VU Amsterdam.
+ 
+ Ritz, A., & <b>Weißmüller, K.S. (forthcoming)</b>. ‘Civil Service in transition – The ongoing transformation of administrative culture.' <i>The Civil Service in Europe: A Research Companion</i>, edited by Sommermann, K., Fraenkel-Haeberle, C., & Krzywon, A., Routledge.
   
  <br>
   
@@ -75,7 +77,7 @@ author_profile: true
 
 <br>
 
-<a href="https://doi.org/10.25592/impactfree28" title="Weißmüller, K.S. (2020). ‘Zwei Thesen zum disruptiven Potenzial von OER für öffentliche Hochschulen’. Impact Free: Journal für freie Bildungswissenschaftler 28, 1-9, Hamburg."></a> <img src="https://ksweissmueller.github.io/files/Impact_Free_28_cover.png" alt="Zwei Thesen zum disruptiven Potenzial von OER für öffentliche Hochschulen" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> </a> <b>Weißmüller, K.S. (2020)</b>. ‘Zwei Thesen zum disruptiven Potenzial von OER für öffentliche Hochschulen‘. <i>Impact Free: Journal für freie Bildungswissenschaftler</i> 28, 1-9, <a href="https://doi.org/10.25592/impactfree28">https://doi.org/10.25592/impactfree28</a>.
+<a href="https://doi.org/10.25592/impactfree28" title="Weißmüller, K.S. (2020). ‘Zwei Thesen zum disruptiven Potenzial von OER für öffentliche Hochschulen’. Impact Free: Journal für freie Bildungswissenschaftler 28, 1-9, Hamburg."></a> <img src="https://ksweissmueller.github.io/files/Impact_Free_28_cover.png" alt="Zwei Thesen zum disruptiven Potenzial von OER für öffentliche Hochschulen" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> <b>Weißmüller, K.S. (2020)</b>. ‘Zwei Thesen zum disruptiven Potenzial von OER für öffentliche Hochschulen‘. <i>Impact Free: Journal für freie Bildungswissenschaftler</i> 28, 1-9, <a href="https://doi.org/10.25592/impactfree28">https://doi.org/10.25592/impactfree28</a>.
 
 <br>
 
