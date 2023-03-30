@@ -22,13 +22,13 @@ author_profile: true
  
   <br><br>
  
-<img src="https://ksweissmueller.github.io/files/PAR.png" alt="Micro-foundations of Corruption" width="84" height="120" align="left" style="float:left; margin-right: 30px;" />   <b>Weißmüller, K.S.</b>, & Zuber, A. <b>(accepted)</b>. ‘Understanding the micro-foundations of administrative cor-ruption in the public sector: findings from a systematic literature review.’ <i>Public Administration Review</i>. [<a href="https://doi.org/10.31219/osf.io/z9bcy">Preprint</a>].
+<img src="https://ksweissmueller.github.io/files/PAR.png" alt="Micro-foundations of Corruption" width="84" height="120" align="left" style="float:left; margin-right: 30px;" />  <b>Weißmüller, K.S.</b>, & Zuber, A. <b>(accepted)</b>. ‘Understanding the micro-foundations of administrative cor-ruption in the public sector: findings from a systematic literature review.’ <i>Public Administration Review</i>. [<a href="https://doi.org/10.31219/osf.io/z9bcy">Preprint</a>].
 
    <br><br>
   
-   Kisliuk, S. & <b>Weißmüller, K.S. (2022)</b>. ‘Social capital as a resource for prosocial donation behavior. Quantitative evidence on the moderating effect of strategic networking.’ <i>SSRN Preprint</i>, [<a href="https://ssrn.com/abstract=4291518">Preprint</a>]. 
+<img src="https://ksweissmueller.github.io/files/SSHO.png" alt="Dark Side of Social Capital" width="84" height="120" align="left" style="float:left; margin-right: 30px;" />   Kisliuk, S. & <b>Weißmüller, K.S. (2022)</b>. ‘Social capital as a resource for prosocial donation behavior. Quantitative evidence on the moderating effect of strategic networking.’ <i>SSRN Preprint</i>, [<a href="https://ssrn.com/abstract=4291518">Preprint</a>]. 
  
-  <br>
+  <br><br>
   
  <a href="https://www.tandfonline.com/doi/abs/10.1080/14719037.2022.2084770?journalCode=rpxm20" title="Seidemann, I., & Weißmüller, K.S. (2022). ‘Conceptual Foundations of Workforce Homogeneity in the Public Sector. Insights from a Systematic Review on Causes, Consequences, and Blind Spots.’ Public Management Review."></a> <img src="https://ksweissmueller.github.io/files/PMR1.jpg" alt="Workforce Homogeneity" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> <b>Seidemann, I., & Weißmüller, K.S. (2022)</b>. ‘Conceptual Foundations of Workforce Homogeneity in the Public Sector. Insights from a Systematic Review on Causes, Consequences, and Blind Spots.’ <i>Public Management Review</i>. <a href="https://doi.org/10.1080/14719037.2022.2084770">https://doi.org/10.1080/14719037.2022.2084770</a> [<a href="https://ksweissmueller.github.io/files/Seidemann_Weißmüller_2022_PMR_Homogeneity.pdf">Preprint</a>]
 
