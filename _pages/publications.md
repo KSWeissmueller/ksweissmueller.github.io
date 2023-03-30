@@ -19,42 +19,33 @@ author_profile: true
 
  
 <img src="https://ksweissmueller.github.io/files/PPA.png" alt="Co-creating the digital transformation" width="84" height="120" align="left" style="float:left; margin-right: 30px;" />  <b>Weißmüller, K.S.</b>, Ritz, A., & Yerramsetti, S. <b>(accepted)</b>. ‘Collaborating and Co-creating the digital transformation: Empirical evidence on the crucial role of stakeholder demand from Swiss municipalities.’ <i>Public Policy and Administration, Special Issue: Strategizing and Collaboration in the Digital Transformation of Public Administration</i>.
- 
-  <br><br>
+   <br><br>
  
 <img src="https://ksweissmueller.github.io/files/PAR.png" alt="Micro-foundations of Corruption" width="84" height="120" align="left" style="float:left; margin-right: 30px;" />  <b>Weißmüller, K.S.</b>, & Zuber, A. <b>(accepted)</b>. ‘Understanding the micro-foundations of administrative cor-ruption in the public sector: findings from a systematic literature review.’ <i>Public Administration Review</i>. [<a href="https://doi.org/10.31219/osf.io/z9bcy">Preprint</a>].
-
    <br><br>
   
 <img src="https://ksweissmueller.github.io/files/SSHO.png" alt="Dark Side of Social Capital" width="84" height="120" align="left" style="float:left; margin-right: 30px;" />   Kisliuk, S. & <b>Weißmüller, K.S. (2022)</b>. ‘Social capital as a resource for prosocial donation behavior. Quantitative evidence on the moderating effect of strategic networking.’ <i>SSRN Preprint</i>, [<a href="https://ssrn.com/abstract=4291518">Preprint</a>]. 
- 
-  <br><br>
+   <br><br>
   
  <a href="https://www.tandfonline.com/doi/abs/10.1080/14719037.2022.2084770?journalCode=rpxm20" title="Seidemann, I., & Weißmüller, K.S. (2022). ‘Conceptual Foundations of Workforce Homogeneity in the Public Sector. Insights from a Systematic Review on Causes, Consequences, and Blind Spots.’ Public Management Review."></a> <img src="https://ksweissmueller.github.io/files/PMR1.jpg" alt="Workforce Homogeneity" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> <b>Seidemann, I., & Weißmüller, K.S. (2022)</b>. ‘Conceptual Foundations of Workforce Homogeneity in the Public Sector. Insights from a Systematic Review on Causes, Consequences, and Blind Spots.’ <i>Public Management Review</i>. <a href="https://doi.org/10.1080/14719037.2022.2084770">https://doi.org/10.1080/14719037.2022.2084770</a> [<a href="https://ksweissmueller.github.io/files/Seidemann_Weißmüller_2022_PMR_Homogeneity.pdf">Preprint</a>]
-
-<br>
+<br><br>
  
   <a href="https://ksweissmueller.github.io/files/Meyerhofer_et_al_Soziokratie_zfo_Preprint.pdf" title="Meyerhofer, Ursula, Ritz, Adrian, Weißmüller, K.S. (2022). ‘Wenn Mitarbeitende Mitarbeitende entlassen: Personalabbau im Konsent.’ zfo Zeitschrift Führung + Organisation."></a>
 <img src="https://ksweissmueller.github.io/files/zfo.jpg" alt="Wenn Mitarbeitende Mitarbeitende entlassen" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> Meyerhofer, U., Ritz, A., <b>Weißmüller, K.S.</b> <b>(2022)</b>. ‘Wenn Mitarbeitende Mitarbeitende entlassen: Personalabbau im Konsent.’ <i>zfo Zeitschrift Führung + Organisation</i>, 5/2022, <a href="https://www.zfo.de/suche-archiv/Document/details/3846_12">https://www.zfo.de/suche-archiv/Document/details/3846_12</a>. [<a href="https://ksweissmueller.github.io/files/Meyerhofer_et_al_Soziokratie_zfo_Preprint.pdf">Preprint</a>]
-
-  <br>
+  <br><br>
  
  <img src="https://ksweissmueller.github.io/files/RoPPA2.png" alt="Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> Ritz, A., <b>Weißmüller, K.S.</b>, & Meynhardt, T. <b>(2022)</b>. Public Value at Crosspoints: A Comparative Study on Employer Attractiveness of Public, Private, and Nonprofit Organizations.' <i>Review of Public Personnel Administration</i>, <a href="https://doi.org/10.1177/0734371X221098153">https://doi.org/10.1177/0734371X221098153</a> [<a href="https://raw.githubusercontent.com/KSWeissmueller/ksweissmueller.github.io/master/files/Ritz_Weissmueller_Meynhardt_2022_RoPPA.pdf">Preprint</a>]
-  
-  <br>  
+    <br><br>  
  
  <a href="https://doi.org/10.3389/fpsyg.2022.779028" title="Maasland, C., & Weißmüller, K.S. (2022). ‘Bribery and the role of public service motivation and social value orientation. A multi-site experimental study in Belgium, Germany, and the Netherlands.’ Frontiers in Psychology - Organizational Psychology."><img src="https://ksweissmueller.github.io/files/frontiers.jpg" alt="Bribery, PSM, and SVO" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /></a> Maasland, C., & <b>Weißmüller, K.S.</b> <b>(2022)</b>. ‘Blame the Machine? Insights from an Experiment on Algorithm Aversion and Blame Avoidance in Computer-aided Human Resource Management.’ <i>Frontiers in Psychology - Organizational Psychology.</i> <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2022.779028/abstract">https://www.frontiersin.org/articles/10.3389/fpsyg.2022.779028/abstract</a> [Open Access]
-  
-  <br>
+    <br><br>
 
   <a href="https://doi.org/10.1080/14719037.2021.2013072" title="Weißmüller, K.S., Bouwman, R., & Vogel, R. (2021). ‘Satisficing or Maximizing in Public-Private Partnerships? A Laboratory Experiment on Strategic Bargaining.’ Public Management Review."><img src="https://ksweissmueller.github.io/files/PMR1.jpg" alt="Satisficing or Maximizing in Public-Private Partnerships?" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /></a>  <b>Weißmüller, K.S.</b>, Bouwman, R., & Vogel, R. <b>(2021)</b>. ‘Satisficing or Maximizing in Public-Private Partnerships? A Laboratory Experiment on Strategic Bargaining.’ <i>Public Management Review</i>. <a href="https://doi.org/10.1080/14719037.2021.2013072">https://doi.org/10.1080/14719037.2021.2013072</a> [<a href="https://ksweissmueller.github.io/files/Weißmüller_et_al_2021_Bargaining_PMR_preprint.pdf">Preprint</a>]
-
-<br>  
+<br><br>  
 
 <a href="https://doi.org/10.1007/s11162-021-09669-1" title="Weißmüller, K.S. & De Waele, L. (2021). ‘Would you Bribe your Lecturer? A Quasi-experimental Study on Burnout and Bribery in Higher Education.’ Research in Higher Education."></a>
 <img src="https://ksweissmueller.github.io/files/RiHE1.jpg" alt="Would you Bribe your Lecturer?" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> <b>Weißmüller, K.S.</b> & De Waele, L. <b>(2021)</b>. ‘Would you Bribe your Lecturer? A Quasi-experimental Study on Burnout and Bribery in Higher Education.’ <i>Research in Higher Education</i>. [<a ref="https://doi.org/10.1007/s11162-021-09669-1">https://doi.org/10.1007/s11162-021-09669-1</a>] [<a href="https://doi.org/10.1007/s11162-021-09669-1">Open Access</a>]
-
-<br>  
+<br><br>  
 
 <a href="https://www.tandfonline.com/doi/abs/10.1080/14719037.2020.1862287?journalCode=rpxm20" title="Weißmüller, K.S. (2021). ‘Publicness and Micro-Level Risk Behaviour: Experimental Evidence on Stereotypical Discounting Behaviour.’ Public Management Review."></a>
 <img src="https://ksweissmueller.github.io/files/PMR1.jpg" alt="Publicness and Micro-Level Risk Behaviour" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /> <b>Weißmüller, K.S. (2022)</b>. ‘Publicness and Micro-Level Risk Behaviour: Experimental Evidence on Stereotypical Discounting Behaviour.’ <i>Public Management Review</i>, 24(4): 601-630 <a href="https://doi.org/10.1080/14719037.2020.1862287">https://doi.org/10.1080/14719037.2020.1862287</a>. [<a href="https://ksweissmueller.github.io/files/Weißmüller_2020_Discounting_PMR_preprint.pdf">Preprint</a>]
@@ -93,8 +84,7 @@ author_profile: true
   
  <h1>Selected working papers</h1> <a name="workingpapers"></a>
  
- <br>
- 
+  
 <b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., Ritz, A., Christensen, R., Su, Tsai-Tsu, & Walker, R. <b>(2022)</b>. ‘Civil Servants’ Corruptibility in Sectoral Context. Evidence on the Moderating Role of Public Service Motivation from Four Jurisdictions.’ 
   <br> 
 
@@ -102,7 +92,6 @@ author_profile: true
 <br><br>
   
 <h1>Other peer-reviewed Publications</h1> <a name="other"></a>
-
    
  <b>Weißmüller, K.S. (accepted)</b>. ‘Amplifying citizens’ voice in global governance – Why we need inclusive deliberation processes to solve 21st cen-tury challenges.’ <i>Connected World: What is your idea to build better connections?</i>, edited by Vermeulen, I., Legene, S., Malavolta, I., Burgers, G., & Akkermans, H., VU Amsterdam.
  
