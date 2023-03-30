@@ -18,11 +18,13 @@ author_profile: true
 <h1>Peer-Reviewed Journal Articles</h1> <a name="papers">
 
  
- <b>Weißmüller, K.S. (forthcoming)</b>. ‘Amplifying citizens’ voice in global governance – Why we need inclusive deliberation processes to solve 21st cen-tury challenges.’ <i>Connected World: What is your idea to build better connections?<i>, edited by Vermeulen, I., Legene, S., Malavolta, I., Burgers, G., & Akkermans, H., VU Amsterdam.
+ <b>Weißmüller, K.S., Ritz, A., & Yerramsetti, S. <b>(accepted)</b>. ‘Collaborating and Co-creating the digital transformation: Empirical evidence on the crucial role of stakeholder demand from Swiss municipalities.’ <i>Public Policy and Administration, Special Issue: Strategizing and Collaboration in the Digital Transformation of Public Administration</i>.
  
- Ritz, A., & <b>Weißmüller, K.S. (forthcoming)</b>. ‘Civil Service in transition – The ongoing transformation of administrative culture.' <i>The Civil Service in Europe: A Research Companion</i>, edited by Sommermann, K., Fraenkel-Haeberle, C., & Krzywon, A., Routledge.
-  
- <br>
+  <br>
+ 
+ <b>Weißmüller, K.S.</b>, & Zuber, A. <b>(accepted)</b>. ‘Understanding the micro-foundations of administrative cor-ruption in the public sector: findings from a systematic literature review.’ <i>Public Administration Review</i>. [<a href="https://doi.org/10.31219/osf.io/z9bcy">Preprint</a>].
+
+   <br>
   
    Kisliuk, S. & <b>Weißmüller, K.S. (2022)</b>. ‘Social capital as a resource for prosocial donation behavior. Quantitative evidence on the moderating effect of strategic networking.’ <i>SSRN Preprint</i>, [<a href="https://ssrn.com/abstract=4291518">Preprint</a>]. 
  
@@ -95,13 +97,20 @@ author_profile: true
  
 <b>Weißmüller, K.S.</b>, van Witteloostuijn, A., De Waele, L., Ritz, A., Christensen, R., Su, Tsai-Tsu, & Walker, R. <b>(2022)</b>. ‘Civil Servants’ Corruptibility in Sectoral Context. Evidence on the Moderating Role of Public Service Motivation from Four Jurisdictions.’ 
   <br> 
- 
-<b>Weißmüller, K.S.</b>, & Zuber, A. <b>(2022)</b> ‘Understanding the Micro-Foundations of Administrative Corruption in the Public Sector: Findings from a Systematic Literature Review.’ <i>Working Paper</i>, [<a href="https://doi.org/10.31219/osf.io/z9bcy">Preprint</a>].
+
  
 <br><br>
   
 <h1>Other peer-reviewed Publications</h1> <a name="other"></a>
-    
+
+   
+ <b>Weißmüller, K.S. (accepted)</b>. ‘Amplifying citizens’ voice in global governance – Why we need inclusive deliberation processes to solve 21st cen-tury challenges.’ <i>Connected World: What is your idea to build better connections?</i>, edited by Vermeulen, I., Legene, S., Malavolta, I., Burgers, G., & Akkermans, H., VU Amsterdam.
+ 
+ <br>
+ 
+ Ritz, A., & <b>Weißmüller, K.S. (forthcoming)</b>. ‘Civil Service in transition – The ongoing transformation of administrative culture.' <i>The Civil Service in Europe: A Research Companion</i>, edited by Sommermann, K., Fraenkel-Haeberle, C., & Krzywon, A., Routledge.
+  
+  
 <img src="https://raw.githubusercontent.com/KSWeissmueller/ksweissmueller.github.io/master/files/9783658310677.jpg" alt="Netzwerk-Fallstudie" width="84" height="120" align="left" style="float:left; margin-right: 30px;" /><b>Weißmüller, K.S. (2021)</b>. ‘Thema: Organisationale Identifikation (Fallstudie 29)’ (p. 495-498), <a href="https://doi.org/10.1007/978-3-658-31068-4_58">https://doi.org/10.1007/978-3-658-31068-4_58</a>. In Adrian Ritz, Rudolf Blankart, Claus Jacobs, Andreas Lienhard, Doina Radulescu, & Fritz Sager (Eds.), Praxisfälle zu Public Management und Verwaltungswissenschaft – Ein multidisziplinärer Ansatz mit konzeptionellen Bausteinen, ISBN: <a href="https://www.springer.com/de/book/9783658310677">978-3-658-31067-7</a>, Wiesbaden: Springer-Gabler.
 <br>
   
