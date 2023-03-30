@@ -20,11 +20,11 @@ author_profile: true
  
 <img src="https://ksweissmueller.github.io/files/PPA.png" alt="Co-creating the digital transformation" width="84" height="120" align="left" style="float:left; margin-right: 30px;" />  <b>Weißmüller, K.S.</b>, Ritz, A., & Yerramsetti, S. <b>(accepted)</b>. ‘Collaborating and Co-creating the digital transformation: Empirical evidence on the crucial role of stakeholder demand from Swiss municipalities.’ <i>Public Policy and Administration, Special Issue: Strategizing and Collaboration in the Digital Transformation of Public Administration</i>.
  
-  <br>
+  <br><br>
  
- <b>Weißmüller, K.S.</b>, & Zuber, A. <b>(accepted)</b>. ‘Understanding the micro-foundations of administrative cor-ruption in the public sector: findings from a systematic literature review.’ <i>Public Administration Review</i>. [<a href="https://doi.org/10.31219/osf.io/z9bcy">Preprint</a>].
+<img src="https://ksweissmueller.github.io/files/PAR.png" alt="Micro-foundations of Corruption" width="84" height="120" align="left" style="float:left; margin-right: 30px;" />   <b>Weißmüller, K.S.</b>, & Zuber, A. <b>(accepted)</b>. ‘Understanding the micro-foundations of administrative cor-ruption in the public sector: findings from a systematic literature review.’ <i>Public Administration Review</i>. [<a href="https://doi.org/10.31219/osf.io/z9bcy">Preprint</a>].
 
-   <br>
+   <br><br>
   
    Kisliuk, S. & <b>Weißmüller, K.S. (2022)</b>. ‘Social capital as a resource for prosocial donation behavior. Quantitative evidence on the moderating effect of strategic networking.’ <i>SSRN Preprint</i>, [<a href="https://ssrn.com/abstract=4291518">Preprint</a>]. 
  
