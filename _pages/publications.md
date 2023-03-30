@@ -18,7 +18,7 @@ author_profile: true
 <h1>Peer-Reviewed Journal Articles</h1> <a name="papers">
 
  
- <b>Weißmüller, K.S., Ritz, A., & Yerramsetti, S. <b>(accepted)</b>. ‘Collaborating and Co-creating the digital transformation: Empirical evidence on the crucial role of stakeholder demand from Swiss municipalities.’ <i>Public Policy and Administration, Special Issue: Strategizing and Collaboration in the Digital Transformation of Public Administration</i>.
+ <b>Weißmüller, K.S.</b>, Ritz, A., & Yerramsetti, S. <b>(accepted)</b>. ‘Collaborating and Co-creating the digital transformation: Empirical evidence on the crucial role of stakeholder demand from Swiss municipalities.’ <i>Public Policy and Administration, Special Issue: Strategizing and Collaboration in the Digital Transformation of Public Administration</i>.
  
   <br>
  
