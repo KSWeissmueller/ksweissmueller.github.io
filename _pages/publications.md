@@ -18,11 +18,12 @@ author_profile: true
 <h1>Peer-Reviewed Journal Articles</h1> <a name="papers">
 
  
-<img src="https://ksweissmueller.github.io/files/PPA.png" alt="Co-creating the digital transformation" width="84" height="120" align="left" style="float:left; margin-right: 30px;" />  <b>Weißmüller, K.S.</b>, Ritz, A., & Yerramsetti, S. <b>(accepted)</b>. ‘Collaborating and Co-creating the digital transformation: Empirical evidence on the crucial role of stakeholder demand from Swiss municipalities.’ <i>Public Policy and Administration, Special Issue: Strategizing and Collaboration in the Digital Transformation of Public Administration</i>.
+<img src="https://ksweissmueller.github.io/files/PPA.png" alt="Co-creating the digital transformation" width="84" height="120" align="left" style="float:left; margin-right: 30px;" />  <b>Weißmüller, K.S.</b>, Ritz, A., & Yerramsetti, S. <b>(accepted)</b>. ‘Collaborating and Co-creating the digital transformation: Empirical evidence on the crucial role of stakeholder demand from Swiss municipalities.’ <i>Public Policy and Administration, Special Issue: Strategizing and Collaboration in the Digital Transformation of Public Administration</i>. https://doi.org/10.1177/09520767231170100.
    <br><br>
  
 <img src="https://ksweissmueller.github.io/files/PAR.png" alt="Micro-foundations of Corruption" width="84" height="120" align="left" style="float:left; margin-right: 30px;" />  <b>Weißmüller, K.S.</b>, & Zuber, A. <b>(accepted)</b>. ‘Understanding the micro-foundations of administrative cor-ruption in the public sector: findings from a systematic literature review.’ <i>Public Administration Review</i>. [<a href="https://doi.org/10.31219/osf.io/z9bcy">Preprint</a>].
    <br><br>
+ 
   
 <img src="https://ksweissmueller.github.io/files/SSHO.png" alt="Dark Side of Social Capital" width="84" height="120" align="left" style="float:left; margin-right: 30px;" />   Kisliuk, S. & <b>Weißmüller, K.S. (2022)</b>. ‘Social capital as a resource for prosocial donation behavior. Quantitative evidence on the moderating effect of strategic networking.’ <i>SSRN Preprint</i>, [<a href="https://ssrn.com/abstract=4291518">Preprint</a>]. 
    <br><br>
